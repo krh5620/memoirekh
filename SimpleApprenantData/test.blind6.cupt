@@ -1,0 +1,1172 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC PARSEME:MWE
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900
+# text = Ils regardent tous les cinq par la fenêtre.  
+1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_	*
+2	regardent	regarder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+3	tous	tout	DET	_	Gender=Masc|Number=Plur	5	det	_	_	*
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_	*
+5	cinq	cinq	NUM	_	_	2	obj	_	_	*
+6	par	par	ADP	_	_	8	case	_	_	*
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_	*
+8	fenêtre	fenêtre	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No	*
+9	.	.	PUNCT	_	_	2	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9001
+# text = Quelques petites tables rondes, un baby-foot, des jeux électroniques, de la musique, des rires.
+1	Quelques	quelque	DET	_	Gender=Fem|Number=Plur	3	det	_	_	*
+2	petites	petit	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_	*
+3	tables	table	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_	*
+4	rondes	rond	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	SpaceAfter=No	*
+5	,	,	PUNCT	_	_	7	punct	_	_	*
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_	*
+7	baby-foot	baby-foot	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No	*
+8	,	,	PUNCT	_	_	3	punct	_	_	*
+9-10	des	_	_	_	_	_	_	_	_	*
+9	de	de	ADP	_	_	11	case	_	_	*
+10	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_	*
+11	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_	*
+12	électroniques	électronique	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No	*
+13	,	,	PUNCT	_	_	3	punct	_	_	*
+14	de	de	ADP	_	_	16	case	_	_	*
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_	*
+16	musique	musique	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No	*
+17	,	,	PUNCT	_	_	20	punct	_	_	*
+18-19	des	_	_	_	_	_	_	_	_	*
+18	de	de	ADP	_	_	20	case	_	_	*
+19	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_	*
+20	rires	rire	NOUN	_	Gender=Masc|Number=Plur	16	conj	_	SpaceAfter=No	*
+21	.	.	PUNCT	_	_	3	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9000
+# text = Quelques hommes. 
+1	Quelques	quelque	DET	_	Gender=Masc|Number=Plur	2	det	_	_	*
+2	hommes	homme	NOUN	_	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No	*
+3	.	.	PUNCT	_	_	2	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9005
+# text = Aucun en blanc.
+1	Aucun	aucun	DET	_	Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg	3	det	_	_	*
+2	en	en	ADP	_	_	3	case	_	_	*
+3	blanc	blanc	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No	*
+4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9007
+# text = "Qu'est-ce qu'on fait ?" demande Maïa.
+1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No	*
+2	Qu'	que	PRON	_	_	4	nsubj	_	SpaceAfter=No	*
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No	*
+4	-ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	10	nsubj	_	_	*
+5	qu'	que	PRON	_	PronType=Rel	7	obj	_	SpaceAfter=No	*
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_	*
+7	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_	*
+8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No	*
+9	"	"	PUNCT	_	_	4	punct	_	_	*
+10	demande	demander	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+11	Maïa	Maïa	PROPN	_	_	10	xcomp	_	SpaceAfter=No	*
+12	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a90032
+# text = "On ne va pas rester dehors, répond Thomas.
+1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No	*
+2	On	on	PRON	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_	*
+3	ne	ne	ADV	_	Polarity=Neg	6	advmod	_	_	*
+4	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_	*
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_	*
+6	rester	rester	VERB	_	VerbForm=Inf	0	root	_	_	*
+7	dehors	dehors	ADV	_	_	6	advmod	_	SpaceAfter=No	*
+8	,	,	PUNCT	_	_	6	punct	_	_	*
+9	répond	répondre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_	*
+10	Thomas	Thomas	PROPN	_	_	9	nsubj	_	SpaceAfter=No	*
+11	.	.	PUNCT	_	_	6	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900231
+# text = À l'intérieur, il fait chaud, la musique est bonne, l'ambiance agréable.
+1	À	à	ADP	_	_	3	case	_	_	*
+2	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No	*
+3	intérieur	intérieur	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No	*
+4	,	,	PUNCT	_	_	6	punct	_	_	*
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_	1:VID
+6	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	1
+7	chaud	chaud	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No	*
+8	,	,	PUNCT	_	_	6	punct	_	_	*
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_	*
+10	musique	musique	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_	*
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_	*
+12	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	6	parataxis	_	SpaceAfter=No	*
+13	,	,	PUNCT	_	_	15	punct	_	_	*
+14	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No	*
+15	ambiance	ambiance	NOUN	_	Gender=Fem|Number=Sing	12	conj	_	_	*
+16	agréable	agréable	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No	*
+17	.	.	PUNCT	_	_	6	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900mm
+# text = Personne ne fait attention à eux.  
+1	Personne	personne	PRON	_	Number=Sing|PronType=Neg	3	nsubj	_	_	*
+2	ne	ne	ADV	_	Polarity=Neg	3	advmod	_	_	*
+3	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	1:LVC.full
+4	attention	attention	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_	1
+5	à	à	ADP	_	_	6	case	_	_	*
+6	eux	soi	PRON	_	Gender=Masc|Number=Plur|Person=3	3	obl	_	SpaceAfter=No	*
+7	.	.	PUNCT	_	_	3	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900nkl
+# text = Au comptoir, un serveur essuie les verres.
+1-2	Au	_	_	_	_	_	_	_	_	*
+1	À	à	ADP	_	_	3	case	_	_	*
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_	*
+3	comptoir	comptoir	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No	*
+4	,	,	PUNCT	_	_	7	punct	_	_	*
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_	*
+6	serveur	serveur	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_	*
+7	essuie	essuyer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+8	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_	*
+9	verres	verre	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No	*
+10	.	.	PUNCT	_	_	7	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900123
+# text = Thomas se dirige vers lui.
+1	Thomas	Thomas	PROPN	_	_	3	nsubj	_	_	*
+2	se	se	PRON	_	Person=3|PronType=Prs	3	expl	_	_	1:IRV
+3	dirige	diriger	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	1
+4	vers	vers	ADP	_	_	5	case	_	_	*
+5	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obl	_	SpaceAfter=No	*
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a90078
+# text = "Monsieur, s'il vous plaît ?
+1	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No	*
+2	Monsieur	Monsieur	PROPN	_	_	7	nsubj	_	SpaceAfter=No	*
+3	,	,	PUNCT	_	_	7	punct	_	_	*
+4	s'	si	SCONJ	_	_	7	mark	_	SpaceAfter=No	*
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_	*
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	_	*
+7	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+8	?	?	PUNCT	_	_	7	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9003244
+# text = - Oui, jeune homme ?
+1	-	-	PUNCT	_	_	2	punct	_	_	*
+2	Oui	oui	INTJ	_	_	0	root	_	SpaceAfter=No	*
+3	,	,	PUNCT	_	_	2	punct	_	_	*
+4	jeune	jeune	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_	*
+5	homme	homme	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_	*
+6	?	?	PUNCT	_	_	2	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a90066
+# text = - Un whisky, s'il vous plaît.
+1	- 	-	PUNCT	_	_	3	punct	_	_	*
+2	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_	*
+3	whisky	whisky	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No	*
+4	,	,	PUNCT	_	_	3	punct	_	_	*
+5	s'	si	SCONJ	_	_	8	mark	_	SpaceAfter=No	*
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_	*
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	_	*
+8	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No	*
+9	.	.	PUNCT	_	_	3	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a90033
+# text = Oh, et puis mettez-nous-en cinq !
+1	Oh	oh	INTJ	_	_	0	root	_	SpaceAfter=No	*
+2	,	,	PUNCT	_	_	1	punct	_	_	*
+3	et	et	CCONJ	_	_	5	cc	_	_	*
+4	puis	puis	SCONJ	_	_	5	cc	_	_	*
+5	mettez-nous	mettez-le	PRON	_	Number=Plur|Person=1|PronType=Prs	1	conj	_	SpaceAfter=No	*
+6	-en	en	ADJ	_	_	5	amod	_	_	*
+7	cinq	cinq	NUM	_	_	5	nummod	_	_	*
+8	!	!	PUNCT	_	_	1	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900hh
+# text = Avec ce temps..." Est-ce qu'il est devenu complètement fou ?! 
+1	Avec	avec	ADP	_	_	3	case	_	_	*
+2	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_	*
+3	temps	temps	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No	*
+4	...	...	PUNCT	_	_	3	punct	_	SpaceAfter=No	*
+5	"	"	PUNCT	_	_	6	punct	_	SpacesAfter=\sn	*
+6	Est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No	*
+7	-ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_	*
+8	qu'	que	SCONJ	_	_	11	mark	_	SpaceAfter=No	*
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_	*
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_	*
+11	devenu	devenir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_	*
+12	complètement	complètement	ADV	_	_	13	advmod	_	_	*
+13	fou	fou	ADJ	_	Gender=Masc|Number=Sing	11	xcomp	_	_	*
+14	?!	?!	PUNCT	_	_	6	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900bhk
+# text = Mais non, c'est une chose que Thomas a lue dans les livres : les serveurs jouent un rôle capital dans les enquêtes policières, c'est leur métier d'observer les gens, et les bons détectives ont toujours des amis serveurs. 
+1	Mais	mais	CCONJ	_	_	7	cc	_	_	*
+2	non	non	ADV	_	_	7	advmod	_	SpaceAfter=No	*
+3	,	,	PUNCT	_	_	7	punct	_	_	*
+4	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	7	nsubj	_	SpaceAfter=No	*
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_	*
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_	*
+7	chose	chose	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_	*
+8	que	que	SCONJ	_	_	11	mark	_	_	*
+9	Thomas	Thomas	PROPN	_	_	11	nsubj	_	_	*
+10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_	*
+11	lue	lire	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	ccomp	_	_	*
+12	dans	dans	ADP	_	_	14	case	_	_	*
+13	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_	*
+14	livres	livre	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	_	*
+15	:	:	PUNCT	_	_	7	punct	_	_	*
+16	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_	*
+17	serveurs	serveur	NOUN	_	Gender=Masc|Number=Plur	18	nsubj	_	_	*
+18	jouent	jouer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_	1:LVC.full
+19	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_	*
+20	rôle	rôle	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_	1;2:LVC.full
+21	capital	capital	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	_	*
+22	dans	dans	ADP	_	_	24	case	_	_	*
+23	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_	*
+24	enquêtes	enquête	NOUN	_	Gender=Fem|Number=Plur	18	obl	_	_	*
+25	policières	policier	ADJ	_	Gender=Fem|Number=Plur	24	amod	_	SpaceAfter=No	*
+26	,	,	PUNCT	_	_	30	punct	_	_	*
+27	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	30	nsubj	_	SpaceAfter=No	*
+28	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_	*
+29	leur	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	30	nmod:poss	_	_	*
+30	métier	métier	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	_	*
+31	d'	de	ADP	_	_	32	mark	_	SpaceAfter=No	*
+32	observer	observer	VERB	_	VerbForm=Inf	30	acl	_	_	*
+33	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	_	*
+34	gens	gens	NOUN	_	Gender=Masc|Number=Plur	32	obj	_	SpaceAfter=No	*
+35	,	,	PUNCT	_	_	18	punct	_	_	*
+36	et	et	CCONJ	_	_	40	cc	_	_	*
+37	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	39	det	_	_	*
+38	bons	bon	ADJ	_	Gender=Masc|Number=Plur	39	amod	_	_	*
+39	détectives	détective	NOUN	_	Gender=Masc|Number=Plur	40	nsubj	_	_	*
+40	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_	2
+41	toujours	toujours	ADV	_	_	40	advmod	_	_	*
+42-43	des	_	_	_	_	_	_	_	_	*
+42	de	de	ADP	_	_	44	case	_	_	*
+43	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	44	det	_	_	*
+44	amis	ami	NOUN	_	Gender=Masc|Number=Plur	40	obl	_	_	*
+45	serveurs	serveur	ADJ	_	Gender=Masc|Number=Plur	44	amod	_	SpaceAfter=No	*
+46	.	.	PUNCT	_	_	7	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900oo
+# text = Et le meilleur moyen de faire ami avec un serveur, c'est de lui sortir une blague.
+1	Et	et	CCONJ	_	_	16	cc	_	_	*
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_	*
+3	meilleur	meilleur	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_	*
+4	moyen	moyen	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_	*
+5	de	de	ADP	_	_	6	mark	_	_	*
+6	faire	faire	VERB	_	VerbForm=Inf	4	acl	_	_	*
+7	ami	ami	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_	*
+8	avec	avec	ADP	_	_	10	case	_	_	*
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_	*
+10	serveur	serveur	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No	*
+11	,	,	PUNCT	_	_	16	punct	_	_	*
+12	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	16	nsubj	_	SpaceAfter=No	*
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_	*
+14	de	de	ADP	_	_	16	mark	_	_	*
+15	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	16	iobj	_	_	*
+16	sortir	sortir	VERB	_	VerbForm=Inf	0	root	_	_	*
+17	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_	*
+18	blague	blague	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No	*
+19	.	.	PUNCT	_	_	16	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900uu
+# text = L'homme regarde Thomas, puis il regarde Maïa, Rémi, Alex, Zoé et il éclate de rire.
+1	L'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No	*
+2	homme	homme	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_	*
+3	regarde	regarder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+4	Thomas	Thomas	PROPN	_	_	3	obj	_	SpaceAfter=No	*
+5	,	,	PUNCT	_	_	3	punct	_	_	*
+6	puis	puis	SCONJ	_	_	8	cc	_	_	*
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_	*
+8	regarde	regarder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_	*
+9	Maïa	Maïa	PROPN	_	_	8	obj	_	SpaceAfter=No	*
+10	,	,	PUNCT	_	_	11	punct	_	_	*
+11	Rémi	Rémi	PROPN	_	_	9	conj	_	SpaceAfter=No	*
+12	,	,	PUNCT	_	_	13	punct	_	_	*
+13	Alex	Alex	PROPN	_	_	9	conj	_	SpaceAfter=No	*
+14	,	,	PUNCT	_	_	15	punct	_	_	*
+15	Zoé	Zoé	PROPN	_	_	9	conj	_	_	*
+16	et	et	CCONJ	_	_	18	cc	_	_	*
+17	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_	*
+18	éclate	éclater	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_	*
+19	de	de	ADP	_	_	20	mark	_	_	*
+20	rire	rire	VERB	_	VerbForm=Inf	18	acl	_	SpaceAfter=No	*
+21	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a900667
+# text = "J'ai aussi de la vodka et du champagne, si vous voulez !
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No	*
+2	J'	je	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No	*
+3	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+4	aussi	aussi	ADV	_	_	3	advmod	_	_	*
+5	de	de	ADP	_	_	7	case	_	_	*
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_	*
+7	vodka	vodka	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_	*
+8	et	et	CCONJ	_	_	11	cc	_	_	*
+9-10	du	_	_	_	_	_	_	_	_	*
+9	de	de	ADP	_	_	11	case	_	_	*
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_	*
+11	champagne	champagne	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No	*
+12	,	,	PUNCT	_	_	15	punct	_	_	*
+13	si	si	SCONJ	_	_	15	mark	_	_	*
+14	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	15	nsubj	_	_	*
+15	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_	*
+16	!	!	PUNCT	_	_	15	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a90089
+# text = La vodka, c'est pour les livres d'espionnage.
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_	*
+2	vodka	vodka	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No	*
+3	,	,	PUNCT	_	_	8	punct	_	_	*
+4	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	8	nsubj	_	SpaceAfter=No	*
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_	*
+6	pour	pour	ADP	_	_	8	case	_	_	*
+7	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_	*
+8	livres	livre	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_	*
+9	d'	de	ADP	_	_	10	case	_	SpaceAfter=No	*
+10	espionnage	espionnage	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No	*
+11	.	.	PUNCT	_	_	2	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9011
+# text = Le champagne, pour les romans d'amour. 
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_	*
+2	champagne	champagne	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No	*
+3	,	,	PUNCT	_	_	2	punct	_	_	*
+4	pour	pour	ADP	_	_	6	case	_	_	*
+5	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_	*
+6	romans	roman	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_	*
+7	d'	de	ADP	_	_	8	case	_	SpaceAfter=No	*
+8	amour	amour	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No	*
+9	.	.	PUNCT	_	_	2	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9012
+# text = Nous, on mène une enquête de police.
+1	Nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	4	obl	_	SpaceAfter=No	*
+2	,	,	PUNCT	_	_	4	punct	_	_	*
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_	*
+4	mène	mener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	1:LVC.full
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_	*
+6	enquête	enquête	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_	1
+7	de	de	ADP	_	_	8	case	_	_	*
+8	police	police	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No	*
+9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9013
+# text = - Mais c'est passionnant !
+1	- 	-	PUNCT	_	_	5	punct	_	_	*
+2	Mais	mais	CCONJ	_	_	5	cc	_	_	*
+3	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No	*
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	*
+5	passionnant	passionnant	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_	*
+6	!	!	PUNCT	_	_	5	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9015
+# text = Une enquête de police sur quoi ?
+1	Une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_	*
+2	enquête	enquête	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_	*
+3	de	de	ADP	_	_	4	case	_	_	*
+4	police	police	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_	*
+5	sur	sur	ADP	_	_	6	case	_	_	*
+6	quoi	quoi	PRON	_	_	2	nmod	_	_	*
+7	?	?	PUNCT	_	_	2	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9018
+# text = C'est un secret.
+1	-	-	PUNCT	_	_	5	punct	_	_	*
+2	C'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No	*
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	*
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_	*
+5	secret	secret	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No	*
+6	.	.	PUNCT	_	_	5	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9099
+# text = Je peux juste vous dire qu'on cherche un homme en blanc qui va venir dîner chez vous avec quelqu'un. Vous ne l'avez pas vu, par hasard ?
+1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	*
+2	peux	pouvoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_	*
+3	juste	juste	ADV	_	_	5	advmod	_	_	*
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_	*
+5	dire	dire	VERB	_	VerbForm=Inf	0	root	_	_	*
+6	qu'	que	SCONJ	_	_	8	mark	_	SpaceAfter=No	*
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_	*
+8	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_	*
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_	*
+10	homme	homme	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_	*
+11	en	en	ADP	_	_	12	case	_	_	*
+12	blanc	blanc	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_	*
+13	qui	qui	PRON	_	PronType=Rel	15	nsubj	_	_	*
+14	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_	*
+15	venir	venir	VERB	_	VerbForm=Inf	10	acl:relcl	_	_	*
+16	dîner	dîner	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_	*
+17	chez	chez	ADP	_	_	18	case	_	_	*
+18	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	15	obl	_	_	*
+19	avec	avec	ADP	_	_	20	case	_	_	*
+20	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No	*
+21	.	.	PUNCT	_	_	5	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9032
+# text = Vous ne l'avez pas vu, par hasard ?
+1	Vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_	1:IRV
+2	ne	ne	ADV	_	Polarity=Neg	6	advmod	_	_	*
+3	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No	*
+4	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_	*
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_	*
+6	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No	1
+7	,	,	PUNCT	_	_	6	punct	_	_	*
+8	par	par	ADP	_	_	9	case	_	_	*
+9	hasard	hasard	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_	*
+10	?	?	PUNCT	_	_	6	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a901230
+# text = Qu'est-ce que vous allez boire ?
+1	Qu'	que	PRON	_	_	0	root	_	SpaceAfter=No	*
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No	*
+3	-ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	1	nsubj	_	_	*
+4	que	que	SCONJ	_	_	7	mark	_	_	*
+5	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_	*
+6	allez	aller	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_	*
+7	boire	boir	VERB	_	VerbForm=Inf	1	ccomp	_	_	*
+8	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9908
+# text = - Des jus d'orange, s'il vous plaît."
+1-2	Des	_	_	_	_	_	_	_	_	*
+1	De	de	ADP	_	_	3	case	_	_	*
+2	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_	*
+3	jus	jus	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_	*
+4	d'	de	ADP	_	_	5	case	_	SpaceAfter=No	*
+5	orange	orange	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No	*
+6	,	,	PUNCT	_	_	10	punct	_	_	*
+7	s'	si	SCONJ	_	_	10	mark	_	SpaceAfter=No	*
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_	*
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	_	*
+10	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No	*
+11	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9033
+# text = Pendant que le serveur prépare les boissons, ils fouillent le café. 
+1	Pendant	pendant	ADP	_	_	5	mark	_	_	*
+2	que	que	SCONJ	_	_	1	fixed	_	_	*
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_	*
+4	serveur	serveur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_	*
+5	prépare	préparer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_	*
+6	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_	*
+7	boissons	boisson	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No	*
+8	,	,	PUNCT	_	_	10	punct	_	_	*
+9	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_	*
+10	fouillent	fouiller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_	*
+12	café	café	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No	*
+13	.	.	PUNCT	_	_	10	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9055
+# text = L'endroit n'est pas très grand, c'est rapide. 
+1	L'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No	*
+2	endroit	endroit	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_	*
+3	n'	ne	ADV	_	Polarity=Neg	7	advmod	_	SpaceAfter=No	*
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_	*
+5	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_	*
+6	très	très	ADV	_	_	7	advmod	_	_	*
+7	grand	grand	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No	*
+8	,	,	PUNCT	_	_	11	punct	_	_	*
+9	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	11	nsubj	_	SpaceAfter=No	*
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_	*
+11	rapide	rapide	ADJ	_	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No	*
+12	.	.	PUNCT	_	_	7	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a90660
+# text = Ils regardent dans les toilettes, dans la salle de restaurant, derrière chaque table... Personne !
+1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_	*
+2	regardent	regarder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+3	dans	dans	ADP	_	_	5	case	_	_	*
+4	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_	*
+5	toilettes	toilette	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	SpaceAfter=No	*
+6	,	,	PUNCT	_	_	2	punct	_	_	*
+7	dans	dans	ADP	_	_	9	case	_	_	*
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_	*
+9	salle	salle	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_	*
+10	de	de	ADP	_	_	11	case	_	_	*
+11	restaurant	restaurant	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No	*
+12	,	,	PUNCT	_	_	2	punct	_	_	*
+13	derrière	derrière	ADP	_	_	15	case	_	_	*
+14	chaque	chaque	DET	_	Gender=Fem|Number=Sing	15	det	_	_	*
+15	table	table	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No	*
+16	...	...	PUNCT	_	_	2	punct	_	_	*
+17	Personne	personne	PROPN	_	_	2	obj	_	_	*
+18	!	!	PUNCT	_	_	2	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a90584
+# text = Il ne reste plus qu'à attendre dans le café jusqu'à ce soir, ils vont bien voir alors ce qui va se passer. 
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	*
+2	ne	ne	ADV	_	Polarity=Neg	3	advmod	_	_	*
+3	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+4	plus	plus	ADV	_	Polarity=Neg	3	advmod	_	_	*
+5	qu'	que	ADV	_	_	7	advmod	_	SpaceAfter=No	*
+6	à	à	ADP	_	_	7	mark	_	_	*
+7	attendre	attendre	VERB	_	VerbForm=Inf	3	acl	_	_	*
+8	dans	dans	ADP	_	_	10	case	_	_	*
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_	*
+10	café	café	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_	*
+11	jusqu'	jusque	ADP	_	_	14	case	_	SpaceAfter=No	*
+12	à	à	ADP	_	_	14	case	_	_	*
+13	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_	*
+14	soir	soir	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No	*
+15	,	,	PUNCT	_	_	19	punct	_	_	*
+16	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_	*
+17	vont	aller	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_	*
+18	bien	bien	ADV	_	_	19	advmod	_	_	*
+19	voir	voir	VERB	_	VerbForm=Inf	3	conj	_	_	*
+20	alors	alors	ADV	_	_	19	advmod	_	_	*
+21	ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	19	obj	_	_	*
+22	qui	qui	PRON	_	PronType=Rel	25	nsubj	_	_	*
+23	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_	*
+24	se	se	PRON	_	Person=3|PronType=Prs	25	obj	_	_	3:IRV
+25	passer	passer	VERB	_	VerbForm=Inf	21	acl:relcl	_	SpaceAfter=No	3
+26	.	.	PUNCT	_	_	3	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a903ko
+# text = Mais s'ils ne comprennent pas le début de l'énigme, peut-être qu'ils ne comprennent pas non plus la fin... 
+1	Mais	mais	CCONJ	_	_	5	cc	_	_	*
+2	s'	si	SCONJ	_	_	5	mark	_	SpaceAfter=No	*
+3	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_	*
+4	ne	ne	ADV	_	Polarity=Neg	5	advmod	_	_	*
+5	comprennent	comprendre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+6	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_	*
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_	*
+8	début	début	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_	*
+9	de	de	ADP	_	_	11	case	_	_	*
+10	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No	*
+11	énigme	énigme	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No	*
+12	,	,	PUNCT	_	_	5	punct	_	_	*
+13	peut-être	peut-être	ADV	_	_	17	mark	_	_	*
+14	qu'	que	SCONJ	_	_	13	fixed	_	SpaceAfter=No	*
+15	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_	*
+16	ne	ne	ADV	_	Polarity=Neg	17	advmod	_	_	*
+17	comprennent	comprendre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_	*
+18	pas	pas	ADV	_	Polarity=Neg	17	advmod	_	_	*
+19	non	non	ADV	_	_	20	advmod	_	_	*
+20	plus	plus	ADV	_	_	17	advmod	_	_	*
+21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_	*
+22	fin	fin	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No	*
+23	...	...	PUNCT	_	_	5	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a999
+# text = Peut-être que 'Je dîne à la Tête d'Or' signifie quelque chose de complètement différent ?
+1	Peut-être	peut-être	ADV	_	_	5	advmod	_	_	*
+2	que	que	SCONJ	_	_	1	fixed	_	_	*
+3	'	'	PUNCT	_	_	1	punct	_	SpaceAfter=No	*
+4	Je	je	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	*
+5	dîne	dîner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+6	à	à	ADP	_	_	8	case	_	_	*
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_	*
+8	Tête	tête	PROPN	_	_	5	obl	_	_	*
+9	d'	de	ADP	_	_	10	case	_	SpaceAfter=No	*
+10	Or'	Or'	PROPN	_	_	8	nmod	_	_	*
+11	signifie	signifier	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	xcomp	_	_	*
+12	quelque	quelque	DET	_	Gender=Fem|Number=Sing	13	det	_	_	*
+13	chose	chose	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_	*
+14	de	de	ADP	_	_	15	case	_	_	*
+15	complètement	complètement	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_	*
+16	différent	différent	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_	*
+17	?	?	PUNCT	_	_	5	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9990
+# text = Et si c'était du langage codé ?
+1	Et	et	CCONJ	_	_	7	cc	_	_	*
+2	si	si	SCONJ	_	_	1	fixed	_	_	*
+3	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	7	nsubj	_	SpaceAfter=No	*
+4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_	*
+5-6	du	_	_	_	_	_	_	_	_	*
+5	de	de	ADP	_	_	7	case	_	_	*
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_	*
+7	langage	langage	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_	*
+8	codé	codé	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_	*
+9	?	?	PUNCT	_	_	7	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a99989
+# text = Et puis attendre ici jusqu'à ce soir...
+1	Et	et	CCONJ	_	_	3	cc	_	_	*
+2	puis	puis	SCONJ	_	_	3	cc	_	_	*
+3	attendre	attendre	VERB	_	VerbForm=Inf	0	root	_	_	*
+4	ici	ici	ADV	_	_	3	advmod	_	_	*
+5	jusqu'	jusque	ADP	_	_	8	case	_	SpaceAfter=No	*
+6	à	à	ADP	_	_	8	case	_	_	*
+7	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_	*
+8	soir	soir	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No	*
+9	...	...	PUNCT	_	_	3	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a99932
+# text = Comment vont-ils expliquer cela à leurs parents ? " Ben, alors, les jeunes, vous en faites une tête !
+1	Comment	comment	ADV	_	_	4	advmod	_	_	*
+2	vont	aller	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No	*
+3	-ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	*
+4	expliquer	expliquer	VERB	_	VerbForm=Inf	0	root	_	_	*
+5	cela	cela	PRON	_	Number=Sing|PronType=Dem	4	obj	_	_	*
+6	à	à	ADP	_	_	8	case	_	_	*
+7	leurs	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	8	nmod:poss	_	_	*
+8	parents	parent	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_	*
+9	?	?	PUNCT	_	_	4	punct	_	SpacesAfter=\sn	*
+10	"	"	PUNCT	_	_	11	punct	_	_	*
+11	Ben	Ben	PROPN	_	_	4	obj	_	SpaceAfter=No	*
+12	,	,	PUNCT	_	_	11	punct	_	_	*
+13	alors	alors	ADV	_	_	20	advmod	_	SpaceAfter=No	*
+14	,	,	PUNCT	_	_	20	punct	_	_	*
+15	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_	*
+16	jeunes	jeune	NOUN	_	Gender=Masc|Number=Plur	20	obl	_	SpaceAfter=No	*
+17	,	,	PUNCT	_	_	20	punct	_	_	*
+18	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	20	nsubj	_	_	5:IRV
+19	en	en	PRON	_	Person=3	20	iobj	_	_	*
+20	faites	faire	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_	5
+21	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_	*
+22	tête	tête	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	_	*
+23	!	!	PUNCT	_	_	4	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9932
+# text = Qu'est-ce qui vous arrive ? " les interrompt le serveur.
+1	Qu'	que	PRON	_	_	3	nsubj	_	SpaceAfter=No	*
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No	*
+3	-ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	0	root	_	_	*
+4	qui	qui	PRON	_	PronType=Rel	6	nsubj	_	_	*
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	_	*
+6	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_	*
+7	?	?	PUNCT	_	_	3	punct	_	_	*
+8	"	"	PUNCT	_	_	10	punct	_	_	*
+9	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	10	obj	_	_	*
+10	interrompt	interrompre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_	*
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_	*
+12	serveur	serveur	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No	*
+13	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a987
+# text = " Rien, c'est le problème, répond Zoé.
+
+1	"	"	PUNCT	_	_	2	punct	_	_	*
+2	Rien	rien	PRON	_	_	9	nsubj	_	SpaceAfter=No	*
+3	,	,	PUNCT	_	_	2	punct	_	_	*
+4	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	7	nsubj	_	SpaceAfter=No	*
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_	*
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_	*
+7	problème	problème	NOUN	_	Gender=Masc|Number=Sing	2	parataxis	_	SpaceAfter=No	*
+8	,	,	PUNCT	_	_	2	punct	_	_	*
+9	répond	répondre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+10	Zoé	Zoé	PROPN	_	_	9	obj	_	SpaceAfter=No	*
+11	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9213
+# text = - Et votre enquête ?
+1	-	-	PUNCT	_	_	4	punct	_	_	*
+2	Et	et	CCONJ	_	_	4	cc	_	_	*
+3	votre	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	4	nmod:poss	_	_	*
+4	enquête	enquête	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_	*
+5	?	?	PUNCT	_	_	4	punct	_	SpacesAfter=\sn	*
+
+1	-	-	PUNCT	_	_	4	punct	_	_	*
+2	One	on	PROPN	_	_	4	nsubj	_	_	*
+3	ne	ne	ADV	_	Polarity=Neg	4	advmod	_	_	*
+4	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	SpaceAfter=No	*
+6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a911
+# text = L'homme s'assoit à leur table et, comme il a l'air plutôt sympa, Thomas et Maïa lui expliquent l'affaire : la Maison aux 365 fenêtres, l'homme en blanc, les mains jaunes, le rendez-vous dans son café.
+1	L'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No	*
+2	homme	homme	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_	*
+3	s'	se	PRON	_	Person=3|PronType=Prs	4	obj	_	SpaceAfter=No	1:IRV
+4	assoit	asseoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	1
+5	à	à	ADP	_	_	7	case	_	_	*
+6	leur	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	7	nmod:poss	_	_	*
+7	table	table	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_	*
+8	et	et	CCONJ	_	_	22	cc	_	SpaceAfter=No	*
+9	,	,	PUNCT	_	_	22	punct	_	_	*
+10	comme	comme	ADP	_	_	12	mark	_	_	*
+11	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_	*
+12	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	_	3:VID;4:LVC.full;5:VID
+13	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No	3
+14	air	air	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_	3;4
+15	plutôt	plutôt	ADV	_	_	16	advmod	_	_	*
+16	sympa	sympa	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No	*
+17	,	,	PUNCT	_	_	12	punct	_	_	*
+18	Thomas	Thomas	PROPN	_	_	22	nsubj	_	_	*
+19	et	et	CCONJ	_	_	20	cc	_	_	*
+20	Maïa	Maïa	PROPN	_	_	18	conj	_	_	*
+21	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	22	iobj	_	_	*
+22	expliquent	expliquer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_	*
+23	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	SpaceAfter=No	*
+24	affaire	affaire	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	_	5
+25	:	:	PUNCT	_	_	4	punct	_	_	*
+26	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_	*
+27	Maison	Maison	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_	*
+28-29	aux	_	_	_	_	_	_	_	_	*
+28	à	à	ADP	_	_	31	case	_	_	*
+29	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	31	det	_	_	*
+30	365	365	NUM	_	_	31	nummod	_	_	*
+31	fenêtres	fenêtre	NOUN	_	Gender=Fem|Number=Plur	27	nmod	_	SpaceAfter=No	*
+32	,	,	PUNCT	_	_	4	punct	_	_	*
+33	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	SpaceAfter=No	*
+34	homme	homme	NOUN	_	Gender=Masc|Number=Sing	27	appos	_	_	*
+35	en	en	ADP	_	_	36	case	_	_	*
+36	blanc	blanc	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No	*
+37	,	,	PUNCT	_	_	39	punct	_	_	*
+38	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	39	det	_	_	*
+39	mains	main	NOUN	_	Gender=Fem|Number=Plur	34	conj	_	_	*
+40	jaunes	jaune	ADJ	_	Gender=Fem|Number=Plur	39	amod	_	SpaceAfter=No	*
+41	,	,	PUNCT	_	_	43	punct	_	_	*
+42	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_	*
+43	rendez-vous	rendez-vous	NOUN	_	Gender=Masc|Number=Sing	34	conj	_	_	*
+44	dans	dans	ADP	_	_	46	case	_	_	*
+45	son	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	46	nmod:poss	_	_	*
+46	café	café	NOUN	_	Gender=Masc|Number=Sing	43	nmod	_	SpaceAfter=No	*
+47	.	.	PUNCT	_	_	4	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9933
+# text = Le serveur est surpris : une énigme collée sur la porte de son café ?
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_	*
+2	serveur	serveur	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	_	*
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_	*
+4	surpris	surprendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_	*
+5	:	:	PUNCT	_	_	4	punct	_	_	*
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_	*
+7	énigme	énigme	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_	*
+8	collée	coller	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_	*
+9	sur	sur	ADP	_	_	11	case	_	_	*
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_	*
+11	porte	porte	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_	*
+12	de	de	ADP	_	_	14	case	_	_	*
+13	son	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	14	nmod:poss	_	_	*
+14	café	café	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_	*
+15	?	?	PUNCT	_	_	4	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9324
+# text = Mais avec son travail, il lui arrive d'entendre des histoires encore plus incroyables. 
+1	Mais	mais	CCONJ	_	_	8	cc	_	_	*
+2	avec	avec	ADP	_	_	4	case	_	_	*
+3	son	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	4	nmod:poss	_	_	*
+4	travail	travail	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No	*
+5	,	,	PUNCT	_	_	8	punct	_	_	*
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_	*
+7	lui	lui	PRON	_	Number=Sing|Person=3|PronType=Prs	8	iobj	_	_	*
+8	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+9	d'	de	ADP	_	_	10	mark	_	SpaceAfter=No	*
+10	entendre	entendre	VERB	_	VerbForm=Inf	8	acl	_	_	*
+11-12	des	_	_	_	_	_	_	_	_	*
+11	de	de	ADP	_	_	13	case	_	_	*
+12	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_	*
+13	histoires	histoire	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	_	*
+14	encore	encore	ADV	_	_	15	advmod	_	_	*
+15	plus	plus	ADV	_	_	16	advmod	_	_	*
+16	incroyables	incroyabl	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No	*
+17	.	.	PUNCT	_	_	8	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9213
+# text = Il réfléchit quelques instants, puis il dit : "Votre homme en blanc a laissé ces messages pour que quelqu'un les lise.
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	*
+2	réfléchit	réfléchir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+3	quelques	quelque	DET	_	Gender=Masc|Number=Plur	4	det	_	_	*
+4	instants	instant	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No	*
+5	,	,	PUNCT	_	_	2	punct	_	_	*
+6	puis	puis	SCONJ	_	_	8	cc	_	_	*
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_	*
+8	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_	*
+9	:	:	PUNCT	_	_	8	punct	_	SpacesAfter=\s\n	*
+10	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No	*
+11	Votre	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	12	nmod:poss	_	_	*
+12	homme	homme	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_	*
+13	en	en	ADP	_	_	14	case	_	_	*
+14	blanc	blanc	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_	*
+15	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_	*
+16	laissé	laisser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	_	*
+17	ces	ce	DET	_	Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_	*
+18	messages	message	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_	*
+19	pour	pour	ADP	_	_	23	mark	_	_	*
+20	que	que	SCONJ	_	_	19	fixed	_	_	*
+21	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing	23	nsubj	_	_	*
+22	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	23	obj	_	_	*
+23	lise	lise	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	SpaceAfter=No	*
+24	.	.	PUNCT	_	_	2	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9334
+# text = Les mains jaunes ne vont certainement pas rester là pendant des jours. 
+1	Les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_	*
+2	mains	main	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_	*
+3	jaunes	jaune	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_	*
+4	ne	ne	ADV	_	Polarity=Neg	8	advmod	_	_	*
+5	vont	aller	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_	*
+6	certainement	certainement	ADV	_	_	8	advmod	_	_	*
+7	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_	*
+8	rester	rester	VERB	_	VerbForm=Inf	0	root	_	_	*
+9	là	là	ADV	_	_	8	advmod	_	_	*
+10	pendant	pendant	ADP	_	_	13	case	_	_	*
+11-12	des	_	_	_	_	_	_	_	_	*
+11	de	de	ADP	_	_	13	case	_	_	*
+12	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_	*
+13	jours	jour	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No	*
+14	.	.	PUNCT	_	_	8	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a922
+# text = Donc, si vous les surveillez, peut-être que vous allez voir à qui elles s'adressent et comprende ce que veut dire H71DEMAS."
+1	Donc	donc	ADV	_	_	17	advmod	_	SpaceAfter=No	*
+2	,	,	PUNCT	_	_	17	punct	_	_	*
+3	si	si	SCONJ	_	_	6	mark	_	_	*
+4	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_	*
+5	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	6	obj	_	_	*
+6	surveillez	surveiller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	17	advcl	_	SpaceAfter=No	*
+7	,	,	PUNCT	_	_	17	punct	_	_	*
+8	peut-être	peut-être	ADV	_	_	12	mark	_	_	*
+9	que	que	SCONJ	_	_	8	fixed	_	_	*
+10	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	12	nsubj	_	_	4:IRV
+11	allez	aller	AUX	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	aux	_	_	*
+12	voir	voir	VERB	_	VerbForm=Inf	17	advcl	_	_	*
+13	à	à	ADP	_	_	14	case	_	_	*
+14	qui	qui	PRON	_	PronType=Rel	17	obl	_	_	*
+15	elles	il	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_	*
+16	s'	se	PRON	_	Person=3|PronType=Prs	17	expl	_	SpaceAfter=No	6:IRV
+17	adressent	adresser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	4;6
+18	et	et	CCONJ	_	_	19	cc	_	_	*
+19	comprende	comprendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_	*
+20	ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	19	obj	_	_	*
+21	que	que	PRON	_	PronType=Rel	23	obj	_	_	*
+22	veut	vouloir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_	*
+23	dire	dire	VERB	_	VerbForm=Inf	20	acl:relcl	_	_	*
+24	H71DEMAS	H71DEMAS	SYM	_	_	23	nsubj	_	SpaceAfter=No	*
+25	.	.	PUNCT	_	_	17	punct	_	SpaceAfter=No	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9430
+# text = Mais bien sûr ! 
+1	Mais	mais	CCONJ	_	_	0	root	_	_	*
+2	bien	bien	ADV	_	_	1	advmod	_	_	*
+3	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	2	fixed	_	_	*
+4	!	!	PUNCT	_	_	1	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a912345
+# text = Pourquoi n'y ont-ils pas pensé avant ?
+1	Pourquoi	pourquoi	ADV	_	_	7	advmod	_	_	*
+2	n'	ne	ADV	_	Polarity=Neg	7	advmod	_	SpaceAfter=No	*
+3	y	y	ADV	_	_	7	advmod	_	_	*
+4	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	SpaceAfter=No	*
+5	-ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_	*
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_	*
+7	pensé	penser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_	*
+8	avant	avant	ADV	_	_	7	advmod	_	_	*
+9	?	?	PUNCT	_	_	7	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a93452
+# text = Bon, ils ne peuvent pas savoir quand va passer l'inconnu et donc combien de temps va durer l'attente mais, à part cela, ce plan ne pose pas de difficulté.
+1	Bon	Bon	PROPN	_	_	0	root	_	SpaceAfter=No	*
+2	,	,	PUNCT	_	_	1	punct	_	_	*
+3	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_	*
+4	ne	ne	ADV	_	Polarity=Neg	7	advmod	_	_	*
+5	peuvent	pouvoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_	*
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_	*
+7	savoir	savoir	VERB	_	VerbForm=Inf	1	parataxis	_	_	*
+8	quand	quand	SCONJ	_	_	10	mark	_	_	*
+9	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_	*
+10	passer	passer	VERB	_	VerbForm=Inf	7	advcl	_	_	*
+11	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No	*
+12	inconnu	inconnu	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_	*
+13	et	et	CCONJ	_	_	19	cc	_	_	*
+14	donc	donc	ADV	_	_	19	advmod	_	_	*
+15	combien	combien	ADV	_	_	19	advmod	_	_	*
+16	de	de	ADP	_	_	17	case	_	_	*
+17	temps	temps	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_	*
+18	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_	*
+19	durer	durer	VERB	_	VerbForm=Inf	10	conj	_	_	*
+20	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No	*
+21	attente	attente	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	_	*
+22	mais	mais	CCONJ	_	_	31	cc	_	SpaceAfter=No	*
+23	,	,	PUNCT	_	_	31	punct	_	_	*
+24	à	à	ADP	_	_	31	advmod	_	_	*
+25	part	part	NOUN	_	Gender=Fem|Number=Sing	24	fixed	_	_	*
+26	cela	cela	PRON	_	Number=Sing|PronType=Dem	24	fixed	_	SpaceAfter=No	*
+27	,	,	PUNCT	_	_	31	punct	_	_	*
+28	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	29	det	_	_	*
+29	plan	plan	NOUN	_	Gender=Masc|Number=Sing	31	nsubj	_	_	*
+30	ne	ne	ADV	_	Polarity=Neg	31	advmod	_	_	*
+31	pose	poser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_	1:VID
+32	pas	pas	ADV	_	Polarity=Neg	31	advmod	_	_	*
+33	de	de	ADP	_	_	34	case	_	_	*
+34	difficulté	difficulté	NOUN	_	Gender=Fem|Number=Sing	31	obl	_	SpaceAfter=No	1
+35	.	.	PUNCT	_	_	1	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a990435
+# text = Rien de plus facile que de se cacher près de la Maison du Temps et du Gros Caillou. 
+1	Rien	rien	PRON	_	_	0	root	_	_	*
+2	de	de	ADP	_	_	4	case	_	_	*
+3	plus	plus	ADV	_	_	4	advmod	_	_	*
+4	facile	facile	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_	*
+5	que	que	ADV	_	_	8	advmod	_	_	*
+6	de	de	ADP	_	_	8	mark	_	_	*
+7	se	se	PRON	_	Person=3|PronType=Prs	8	obj	_	_	1:IRV
+8	cacher	cacher	VERB	_	VerbForm=Inf	1	acl	_	_	1
+9	près	près	ADV	_	_	12	case	_	_	*
+10	de	de	ADP	_	_	9	fixed	_	_	*
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_	*
+12	Maison	maison	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_	*
+13-14	du	_	_	_	_	_	_	_	_	*
+13	de	de	ADP	_	_	15	case	_	_	*
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_	*
+15	Temps	temps	PROPN	_	_	12	nmod	_	_	*
+16	et	et	CCONJ	_	_	19	cc	_	_	*
+17-18	du	_	_	_	_	_	_	_	_	*
+17	de	de	ADP	_	_	19	case	_	_	*
+18	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_	*
+19	Gros	Gros	PROPN	_	_	12	conj	_	_	*
+20	Caillou	caillou	PROPN	_	_	19	flat:name	_	SpaceAfter=No	*
+21	.	.	PUNCT	_	_	1	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a93241
+# text = L'inconnu arrive, ils le suivent et découvrent la clé de l'énigme. 
+1	L'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No	*
+2	inconnu	inconnu	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_	*
+3	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No	*
+4	,	,	PUNCT	_	_	7	punct	_	_	*
+5	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_	*
+6	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_	*
+7	suivent	suivre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_	*
+8	et	et	CCONJ	_	_	9	cc	_	_	*
+9	découvrent	découvrir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_	*
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_	*
+11	clé	clé	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_	*
+12	de	de	ADP	_	_	14	case	_	_	*
+13	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No	*
+14	énigme	énigme	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No	*
+15	.	.	PUNCT	_	_	3	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a90123
+# text = Mais pourquoi ne pas se cacher devant le café de la Tête d'Or ? 
+1	Mais	mais	CCONJ	_	_	6	cc	_	_	*
+2	pourquoi	pourquoi	ADV	_	_	6	advmod	_	_	*
+3	ne	ne	ADV	_	Polarity=Neg	6	advmod	_	_	*
+4	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_	*
+5	se	se	PRON	_	Person=3|PronType=Prs	6	obj	_	_	1:IRV
+6	cacher	cacher	VERB	_	VerbForm=Inf	0	root	_	_	1
+7	devant	devant	ADP	_	_	9	case	_	_	*
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_	*
+9	café	café	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_	*
+10	de	de	ADP	_	_	12	case	_	_	*
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_	*
+12	Tête	tête	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_	*
+13	d'	de	ADP	_	_	14	case	_	SpaceAfter=No	*
+14	Or	or	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_	*
+15	?	?	PUNCT	_	_	6	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a94300o
+# text = L'inconnu va certainement venir jusqu'ici..."Dans une enquête, explique le serveur, les plus petits détails sont importants. 
+1	L'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No	*
+2	inconnu	inconnu	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_	*
+3	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_	*
+4	certainement	certainement	ADV	_	_	5	advmod	_	_	*
+5	venir	venir	VERB	_	VerbForm=Inf	0	root	_	_	*
+6	jusqu'	jusque	ADP	_	_	5	advmod	_	SpaceAfter=No	*
+7	ici	ici	ADV	_	_	6	fixed	_	SpaceAfter=No	*
+8	...	...	PUNCT	_	_	5	punct	_	SpacesAfter=\sn	*
+9	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No	*
+10	Dans	dans	ADP	_	_	12	case	_	_	*
+11	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_	*
+12	enquête	enquête	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No	*
+13	,	,	PUNCT	_	_	14	punct	_	_	*
+14	explique	expliquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_	*
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_	*
+16	serveur	serveur	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No	*
+17	,	,	PUNCT	_	_	23	punct	_	_	*
+18	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_	*
+19	plus	plus	ADV	_	_	20	advmod	_	_	*
+20	petits	petit	ADJ	_	Gender=Masc|Number=Plur	21	amod	_	_	*
+21	détails	détail	NOUN	_	Gender=Masc|Number=Plur	23	nsubj	_	_	*
+22	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_	*
+23	importants	important	ADJ	_	Gender=Masc|Number=Plur	16	conj	_	SpaceAfter=No	*
+24	.	.	PUNCT	_	_	5	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a933200
+# text = Pour être prêts à l'action, vous devez voir le visage de l'inconnu avant qu'il mette les pieds dans ce café."
+1	Pour	pour	ADP	_	_	3	mark	_	_	*
+2	être	être	AUX	_	VerbForm=Inf	3	aux:pass	_	_	*
+3	prêts	prêt	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	_	*
+4	à	à	ADP	_	_	6	case	_	_	*
+5	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No	*
+6	action	action	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No	*
+7	,	,	PUNCT	_	_	10	punct	_	_	*
+8	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_	2:IRV
+9	devez	devoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	_	*
+10	voir	voir	VERB	_	VerbForm=Inf	0	root	_	_	2
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_	*
+12	visage	visage	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_	*
+13	de	de	ADP	_	_	15	case	_	_	*
+14	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No	*
+15	inconnu	inconnu	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_	*
+16	avant	avant	ADV	_	_	19	mark	_	_	*
+17	qu'	que	SCONJ	_	_	16	fixed	_	SpaceAfter=No	*
+18	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_	*
+19	mette	mettre	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_	*
+20	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_	*
+21	pieds	pied	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	_	*
+22	dans	dans	ADP	_	_	24	case	_	_	*
+23	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	24	det	_	_	*
+24	café	café	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No	*
+25	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a923001
+# text = C'est bien raisonné. 
+1	C'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	4	nsubj:pass	_	SpaceAfter=No	*
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_	*
+3	bien	bien	ADV	_	_	4	advmod	_	_	*
+4	raisonné	raisonner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No	*
+5	.	.	PUNCT	_	_	4	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9904350
+# text = Ce qu'ils ignorent c'est qui et pourquoi.
+1	Ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_	*
+2	qu'	que	PRON	_	PronType=Rel	4	obj	_	SpaceAfter=No	*
+3	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	*
+4	ignorent	ignorer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_	*
+5	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	7	nsubj	_	SpaceAfter=No	*
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_	*
+7	qui	qui	PRON	_	PronType=Rel	0	root	_	_	*
+8	et	et	CCONJ	_	_	9	cc	_	_	*
+9	pourquoi	pourquoi	ADV	_	_	7	conj	_	SpaceAfter=No	*
+10	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9435022
+# text = Ils décident donc de se diviser en deux équipes : la première, composée de Thomas et Maïa, va aller se cacher près de la Maison du Temps ;
+1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_	*
+2	décident	décider	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+3	donc	donc	ADV	_	_	2	advmod	_	_	*
+4	de	de	ADP	_	_	6	mark	_	_	*
+5	se	se	PRON	_	Person=3|PronType=Prs	6	obj	_	_	*
+6	diviser	diviser	VERB	_	VerbForm=Inf	2	acl	_	_	*
+7	en	en	ADP	_	_	9	case	_	_	*
+8	deux	deux	NUM	_	_	9	nummod	_	_	*
+9	équipes	équipe	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	_	*
+10	:	:	PUNCT	_	_	2	punct	_	_	*
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_	*
+12	première	première	NOUN	_	Gender=Fem|Number=Sing	21	nsubj	_	SpaceAfter=No	*
+13	,	,	PUNCT	_	_	12	punct	_	_	*
+14	composée	composer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_	*
+15	de	de	ADP	_	_	16	case	_	_	*
+16	Thomas	Thomas	PROPN	_	_	14	obl	_	_	*
+17	et	et	CCONJ	_	_	18	cc	_	_	*
+18	Maïa	Maïa	PROPN	_	_	16	conj	_	SpaceAfter=No	*
+19	,	,	PUNCT	_	_	21	punct	_	_	*
+20	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_	*
+21	aller	aller	VERB	_	VerbForm=Inf	2	parataxis	_	_	*
+22	se	se	PRON	_	Person=3|PronType=Prs	23	obj	_	_	4:IRV
+23	cacher	cacher	VERB	_	VerbForm=Inf	21	xcomp	_	_	4
+24	près	près	ADV	_	_	27	case	_	_	*
+25	de	de	ADP	_	_	24	fixed	_	_	*
+26	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_	*
+27	Maison	maison	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	_	*
+28-29	du	_	_	_	_	_	_	_	_	*
+28	de	de	ADP	_	_	30	case	_	_	*
+29	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_	*
+30	Temps	temps	PROPN	_	_	27	nmod	_	_	*
+31	;	;	PUNCT	_	_	2	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a932410
+# text =  la deuxième, avec Zoé, Rémi et Alex, près du Gros Caillou. 
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_	*
+2	deuxième	deuxième	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No	*
+3	,	,	PUNCT	_	_	2	punct	_	_	*
+4	avec	avec	ADP	_	_	5	case	_	_	*
+5	Zoé	Zoé	PROPN	_	_	2	nmod	_	SpaceAfter=No	*
+6	,	,	PUNCT	_	_	7	punct	_	_	*
+7	Rémi	Rémi	PROPN	_	_	5	conj	_	_	*
+8	et	et	CCONJ	_	_	9	cc	_	_	*
+9	Alex	Alex	PROPN	_	_	5	conj	_	SpaceAfter=No	*
+10	,	,	PUNCT	_	_	2	punct	_	_	*
+11	près	près	ADV	_	_	14	case	_	_	*
+12-13	du	_	_	_	_	_	_	_	_	*
+12	de	de	ADP	_	_	11	fixed	_	_	*
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_	*
+14	Gros	gros	PROPN	_	_	2	nmod	_	_	*
+15	Caillou	caillou	PROPN	_	_	14	flat:name	_	SpaceAfter=No	*
+16	.	.	PUNCT	_	_	2	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9kko34
+# text = Ils vont rester en contact avec les portables de Zoé et Maïa. 
+1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_	*
+2	vont	aller	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_	*
+3	rester	rester	VERB	_	VerbForm=Inf	0	root	_	_	*
+4	en	en	ADP	_	_	5	case	_	_	*
+5	contact	contact	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_	*
+6	avec	avec	ADP	_	_	8	case	_	_	*
+7	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_	*
+8	portables	portable	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_	*
+9	de	de	ADP	_	_	10	case	_	_	*
+10	Zoé	Zoé	PROPN	_	_	8	nmod	_	_	*
+11	et	et	CCONJ	_	_	12	cc	_	_	*
+12	Maïa	Maïa	PROPN	_	_	10	conj	_	SpaceAfter=No	*
+13	.	.	PUNCT	_	_	3	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a932240
+# text = S'il se passe quelque chose, ils s'appellent.
+1	S'	si	SCONJ	_	_	4	mark	_	SpaceAfter=No	*
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	*
+3	se	se	PRON	_	Person=3|PronType=Prs	4	obj	_	_	1:IRV
+4	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_	1
+5	quelque	quelque	DET	_	Gender=Fem|Number=Sing	6	det	_	_	*
+6	chose	chose	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No	*
+7	,	,	PUNCT	_	_	10	punct	_	_	*
+8	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_	*
+9	s'	se	PRON	_	Person=3|PronType=Prs	10	obj	_	SpaceAfter=No	*
+10	appellent	appeler	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No	*
+11	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\sn	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a930099
+# text = Ils ont promis à leurs parents d'être rentrés pour 20 heures. 
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	*
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	*
+3	déjà	déjà	ADV	_	_	4	advmod	_	_	*
+4	17h23	17h23	ADJ	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No	*
+5	.	.	PUNCT	_	_	4	punct	_	_	*
+
+1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_	*
+2	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_	*
+3	promis	promettre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_	*
+4	à	à	ADP	_	_	6	case	_	_	*
+5	leurs	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	6	nmod:poss	_	_	*
+6	parents	parent	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_	*
+7	d'	de	ADP	_	_	9	mark	_	SpaceAfter=No	*
+8	être	être	AUX	_	VerbForm=Inf	9	aux:pass	_	_	*
+9	rentrés	rentrer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_	*
+10	pour	pour	ADP	_	_	12	case	_	_	*
+11	20	20	NUM	_	_	12	nummod	_	_	*
+12	heures	heure	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No	*
+13	.	.	PUNCT	_	_	3	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a932440
+# text = Il n'y a pas une minute à perdre. 
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	1:VID
+2	n'	ne	ADV	_	Polarity=Neg	4	advmod	_	SpaceAfter=No	*
+3	y	y	PRON	_	_	4	expl	_	_	1
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	1
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_	*
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_	*
+7	minute	minute	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_	*
+8	à	à	ADP	_	_	9	mark	_	_	*
+9	perdre	perdre	VERB	_	VerbForm=Inf	7	acl	_	SpaceAfter=No	*
+10	.	.	PUNCT	_	_	4	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a9430oo
+# text = Ils remercient le serveur, sortent du café et courent vers le métro.
+1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_	*
+2	remercient	remercier	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	*
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_	*
+4	serveur	serveur	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No	*
+5	,	,	PUNCT	_	_	6	punct	_	_	*
+6	sortent	sortir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_	*
+7-8	du	_	_	_	_	_	_	_	_	*
+7	de	de	ADP	_	_	9	case	_	_	*
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_	*
+9	café	café	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_	*
+10	et	et	CCONJ	_	_	11	cc	_	_	*
+11	courent	courir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_	*
+12	vers	vers	ADP	_	_	14	case	_	_	*
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_	*
+14	métro	métro	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No	*
+15	.	.	PUNCT	_	_	2	punct	_	_	*
+
+# source_sent_id = https://gitlab.inria.fr/sequoia/deep-sequoia/tree/UD-2.1/trunk UD_French-Sequoia/fr_sequoia-ud-test.conllu a12366
+# text = À 17h45, les deux équipes sont en place.
+1	À	à	ADP	_	_	2	case	_	_	*
+2	17h45	17h45	NUM	_	_	9	obl	_	SpaceAfter=No	*
+3	,	,	PUNCT	_	_	9	punct	_	_	*
+4	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_	*
+5	deux	deux	NUM	_	_	6	nummod	_	_	*
+6	équipes	équipe	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_	*
+7	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_	*
+8	en	en	ADP	_	_	9	case	_	_	*
+9	place	place	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No	*
+10	.	.	PUNCT	_	_	9	punct	_	_	*
