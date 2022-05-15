@@ -1,0 +1,3 @@
+Run :
+./validate_cupt.py --input <filename>.cupt
+
