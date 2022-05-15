@@ -1,0 +1,375 @@
+L'apprentissage du code et plus largement d'une culture générale du numérique à l'école est une mesure réclamée depuis longtemps par l'Académie des sciences, soutenue par des acteurs qui comptent dans le secteur numérique. Selon un sondage publié en mai dernier par BVA (société française de sondages) et le Syntec Numérique (fédération professionnelle du secteur informatique) favorable à la mesure, 87 % des Français seraient même d'accord pour que la programmation informatique soient enseignée à l'école (24 % à partir du primaire, 41 % à partir du collège). 
+Mais cette initiative suscite par ailleurs beaucoup de réticences. On entend souvent l'argument selon lequel on n'a pas besoin de connaître la mécanique pour apprendre à conduire. Le nombre insuffisant de professeurs formés est également un frein pour beaucoup d'adversaires de cette mesure, qui la jugent inapplicable.
+Entre ceux qui ne jurent que par l'introduction de l'informatique dans l'enseignement obligatoire, et ceux qui ont peur que l'on veuille transformer le primaire en une grande école d'informatique, il existe pourtant des pistes pour initier les enseignants et favoriser un passage du périscolaire au scolaire, sans avoir à attendre une réforme du socle commun* qui prendra des années. L'action de la fondation La Main à la pâte , qui œuvre depuis près de 20 ans pour enseigner la science différemment à l'école, est un exemple dont on pourrait s'inspirer.
+La Main à la pâte, au service de la science à l'école depuis 20 ans La Fondation La Main à la pâte a été créée en 2011, dans la continuité de l'opération du même nom lancée en 1995 par l'Académie des sciences à l'initiative du prix Nobel de physique, Georges Charpak. Cette action avait pour objectif, dès l'origine, d'aider les professeurs à enseigner la science et la technologie en mettant en œuvre une pédagogie privilégiant l'expérimentation, la discussion, une pratique active et collective. L'idée était de stimuler chez les élèves l'esprit scientifique et les capacités d'expression, de favoriser leur compréhension du monde, et de leur permettre de mieux jouer leur rôle de citoyen en proposant des projets pédagogiques orientés vers des questions de société (éducation à la santé, au développement durable...). Chacun de ces projets touche en moyenne 10 000 classes. Un beau succès. 
+Une des originalités de la fondation est d'impliquer la communauté scientifique dans la création des ressources pédagogiques, l'accompagnement des classes et la formation continue des enseignants. 
+« Ce qui n'a l'air de rien mais constituait une véritable révolution de palais à l'époque, au ministère de l'éducation nationale »
+, confie David Wilgenbus, responsable du secteur production de ressources à La Main à la pâte . 
+Un enseignement fondé sur l'expérimentation et la pratique, des objectifs d'apprentissage transversaux, des actions tournées en priorité vers la formation continue des enseignants, menées en collaboration avec la communauté scientifique et professionnelle : le travail de défrichage réalisé par la fondation dans le domaine des sciences pourrait s'appliquer parfaitement à la problématique de l'enseignement de la culture informatique.
+
+L'apprentissage du code et plus largement d'une culture générale du numérique à l'école est une mesure réclamée depuis longtemps par l'Académie des sciences, soutenue par des acteurs qui comptent dans le secteur numérique. Selon un sondage publié en mai dernier par BVA (société française de sondages) et le Syntec Numérique (fédération professionnelle du secteur informatique) favorable à la mesure, 87 % des Français seraient même d'accord pour que la programmation informatique soient enseignée à l'école (24 % à partir du primaire, 41 % à partir du collège). 
+Mais cette initiative suscite par ailleurs beaucoup de réticences. On entend souvent l'argument selon lequel on n'a pas besoin de connaître la mécanique pour apprendre à conduire. Le nombre insuffisant de professeurs formés est également un frein pour beaucoup d'adversaires de cette mesure, qui la jugent inapplicable.
+Entre ceux qui ne jurent que par l'introduction de l'informatique dans l'enseignement obligatoire, et ceux qui ont peur que l'on veuille transformer le primaire en une grande école d'informatique, il existe pourtant des pistes pour initier les enseignants et favoriser un passage du périscolaire au scolaire, sans avoir à attendre une réforme du socle commun* qui prendra des années. L'action de la fondation La Main à la pâte , qui œuvre depuis près de 20 ans pour enseigner la science différemment à l'école, est un exemple dont on pourrait s'inspirer.
+La Main à la pâte, au service de la science à l'école depuis 20 ans La Fondation La Main à la pâte a été créée en 2011, dans la continuité de l'opération du même nom lancée en 1995 par l'Académie des sciences à l'initiative du prix Nobel de physique, Georges Charpak. Cette action avait pour objectif, dès l'origine, d'aider les professeurs à enseigner la science et la technologie en mettant en œuvre une pédagogie privilégiant l'expérimentation, la discussion, une pratique active et collective. L'idée était de stimuler chez les élèves l'esprit scientifique et les capacités d'expression, de favoriser leur compréhension du monde, et de leur permettre de mieux jouer leur rôle de citoyen en proposant des projets pédagogiques orientés vers des questions de société (éducation à la santé, au développement durable...). Chacun de ces projets touche en moyenne 10 000 classes. Un beau succès. 
+Une des originalités de la fondation est d'impliquer la communauté scientifique dans la création des ressources pédagogiques, l'accompagnement des classes et la formation continue des enseignants. 
+« Ce qui n'a l'air de rien mais constituait une véritable révolution de palais à l'époque, au ministère de l'éducation nationale », confie David Wilgenbus, responsable du secteur production de ressources à La Main à la pâte. Un enseignement fondé sur l'expérimentation et la pratique, des objectifs  d'apprentissage transversaux, des actions tournées en priorité vers la formation continue des enseignants, menées en collaboration avec la communauté scientifique et professionnelle : le travail de défrichage réalisé par la fondation dans le domaine des sciences pourrait s'appliquer parfaitement à la problématique de l'enseignement de la culture informatique.
+
+Du fait de la progression démographique et du développement des classes moyennes dans le monde, les systèmes éducatifs vont devoir former, d'ici à 2050, autant d'étudiants que durant toute l'histoire de l'humanité réunie. D'ici là, « l'infosphère » continuera son expansion vertigineuse ; la masse de connaissances double déjà tous les deux ans. Il est donc grand temps d'anticiper et de repenser la valeur ajoutée de l'enseignement futur.
+L'éducation est censée préparer la jeune génération à l'avenir. Mais le fait-elle encore ? Imparfaitement, en tout cas. Une preuve en est que deux millions d'emplois en Europe, nécessitant des compétences scientifiques et technologiques, ne sont pas pourvus ; rien que dans le secteur informatique, il manque cent mille programmeurs. 
+Pour de multiples raisons, l'éducation s'est focalisée sur la spécialisation. Or la grande majorité des jeunes n'auront pas « un » emploi mais « des » emplois tout au long de leur vie, surtout si l'on considère l'accélération des technologies et le fait que les enfants qui terminent leurs études maintenant ne seront à la retraite qu'après 2070. Même à l'université, les études sont trop focalisées et seuls 5 % des étudiants qui ont un doctorat occu - peront une fonction académique. Les autres seront-ils pour autant formés à un métier ? On en doute. Trop se spécialiser dans un environnement qui change sans cesse, c'est comme rouler vite avec des œillères. 
+Dorénavant, il faut que l'enseignement s'intéresse à plusieurs disciplines à la fois. Même si l'on admet que l'innovation sera au rendez-vous, à la croisée des technologies – les nano-, bio-, info-, neuro-,... – on oublie encore qu'il faut être capable d'intégrer en même temps les aspects sociétaux, culturels et autres. Alors pour - quoi ne pas commencer dès l'école ? Par exemple, l'énergie, la santé, les transports ou le climat peuvent être des thèmes de synthèse intégrant la géographie, l'histoire, la chimie, les mathématiques, la physique... tout en étant déclinés sous l'aspect culturel, artistique, juridique, politique ou économique.
+Pour pallier le manque de compétences transversales, la créativité dans les salles de classe de tous âges pourrait être le fait des élèves eux-mêmes, en devenant des « proconsommateurs » – producteurs et consommateurs – de connaissances. Ceci pourrait donner lieu à des jeux interactifs, qui sont un excellent moyen de mémorisation. 
+Cela permettrait enfin de donner plus de sens – comme un lien avec la vie de tous les jours – à des matières qui peuvent être rédhibitoires. En effet, il n'y a pas seulement un problème de contenu, il y a aussi la façon d'enseigner et la motivation d'une finalité.
+La gestion de la complexité sera bien le défi majeur du XXIe siècle. Si l'éducation préparait à « un » avenir, il faudra qu'elle prépare dès à présent à « des » avenirs. Qu'en est-il en effet d'une société du savoir si elle n'est pas savante ?
+
+On ne peut plus repenser le contenu d'une culture scolaire commune en se référant à ce qui existe ou a existé. 
+Nous vivons dans un univers bouleversé par les révolutions scientifiques et technologiques, par de nouvelles pratiques culturelles. L'évolution du monde nous oblige à nous ouvrir à une multitude de cultures et de visions. 
+Nous devons nous envisager autant comme citoyens du monde que comme héritiers d'une vieille nation. 
+L'évolution de la famille et ses conséquences sur l'éducation des enfants participent également de ce renouvellement. Il faut prendre la mesure de ces bouleversements pour repenser les contenus scolaires, les manières de les enseigner et de les apprendre. « 
+Lire, écrire, compter » ne sont plus les seuls apprentissages indispensables. 
+Nous devons apprendre une multitude de langages : scientifiques tels le numérique, les langues étrangères, les langages des sons et des images, le langage du corps. Communiquer et penser dans tant de langages impose à l'individu contemporain d'entrer dans des systèmes et des réseaux qu'il doit comprendre et hiérarchiser. Il doit en même temps acquérir des automatismes de lecture et de production d'oraux, d'écrits, d'images ou de gestes. L'école doit former les enfants à se séparer de leur comportement d'usagers pour leur faire adopter une position distanciée qui les aidera à considérer ces langages comme des objets et des véhicules du savoir. C'est ce décentrage que notre système éducatif ne parvient pas à transmettre aux nombreux élèves en échec.
+
+Vous rédigez un article pour le bulletin de l'association des parents d'élèves dont vous faites partie. Vous reconnaissez qu'au XXIe siècle, l'école doit s'ouvrir aux technologies de l'information et de la communication (TIC) et préparer les futurs citoyens à s'en servir efficacement. Cependant vous craignez que ceci ne se fasse au détriment de l'enseignement de certains savoirs et de certaines valeurs et, surtout, pour des raisons financières. 
+À l'aide du dossier joint et d'apports personnels, vous rédigez un texte structuré dans lequel vous prenez clairement position sur la question et proposez des solutions concrètes. Vous adoptez un style approprié et convaincant.
+Vous rédigez un article pour le dossier Les nouvelles valeurs de l'école , publié par votre université. Vous êtes convaincu(e) que l'ouverture de l'école aux nouvelles technologies est une priorité indéniable. Certes, le rôle de l'école n'est pas de former des techniciens, mais ce siècle est marqué par de profonds changements. L'école doit en tenir compte au moment de repenser ses priorités. 
+À l'aide du dossier joint et d'apports personnels, vous rédigez un texte structuré dans lequel vous prenez clairement position sur la question et proposez des solutions concrètes, en adoptant un style approprié et convaincant 
+Vous rédigez un article pour le dossier Les nouvelles valeurs de l'école, publié par votre université. Vous êtes convaincu(e) que l'ouverture de l'école aux nouvelles technologies est une priorité indéniable. Certes, le rôle de l'école n'est pas de former des techniciens, mais ce siècle est marqué par de profonds changements. L'école doit en tenir compte au moment de repenser ses priorités. 
+À l'aide du dossier joint et d'apports personnels, vous rédigez un texte structuré dans lequel vous prenez clairement position sur la question et proposez des solutions concrètes, en adoptant un style approprié et convaincant.
+
+Louise Tourret : 
+Bonjour à tous, bienvenue dans Rue des écoles, le rendez-vous de l'éducation de France culture. 
+Aujourd'hui, la classe inversée, une innovation pédagogique qui rencontre un succès sans précédent. On va vous expliquer de quoi il s'agit, et tenter de comprendre ce que signifie ce succès. » Héloïse Dufour bonjour !
+Héloïse Dufour : 
+Bonjour.
+Louise Tourret : 
+Vous êtes biologiste, militante passionnée de cette pédagogie, vous allez nous expliquer pourquoi le sujet vous passionne. J'ajoute que vous êtes aussi fondatrice d'une association : Inversons la classe. V incent Faillet, bonjour.
+Vincent Faillet : 
+Bonjour.
+Louise Tourret : 
+Vous êtes professeur agrégé de sciences de la vie et de la terre, vous enseignez au lycée Dorian à Paris, dans le onzième arrondissement, et puis vous menez aussi une activité de recherche en sciences de l'éducation, notamment sur la question de la classe inversée, c'est pour ça que vous êtes avec nous aujourd'hui. 
+Héloïse Dufour, donc je le disais, vous êtes biologiste. C'est parce que vous avez passé beaucoup de temps aux États-Unis ces dernières années que vous avez été sensibilisée à la classe inversée, une pédagogie qui est très répandue outre- Atlantique ?
+Héloïse Dufour : 
+Tout à fait. Donc j'ai passé ces six dernières années aux États-Unis, et puis, là, j'ai entendu parler de la classe inversée par mes activités d'enseignement, et elle m'a intéressée pour deux raisons principales. La première, c'est que ça me paraît un moyen facilement transmissible de dépasser un enseignement transmissif. Et puis en outre, ça me paraît être un moyen prometteur pour lutter contre les inégalités et le décrochage scolaire. Et, comme vous le disiez, aux États-Unis, c'est vraiment quelque chose qui se répand à la vitesse de l'éclair. 
+Louise Tourret : 
+Donc, on reprend la définition de la classe inversée, c'est donc apprendre hors de la classe, et faire les exercices avec l'enseignant, ce qui permet de mettre tous les élèves en activité. Vous dites que c'est moins inégalitaire, Héloïse Dufour. Pourtant, le travail à la maison, on le sait, les devoirs, c'est très inégalitaire, car tous les enfants n'ont pas les mêmes possibilités de travailler chez eux : possibilités matérielles, la même aide aussi disponible de la part de leurs parents ou de leur entourage.
+Héloïse Dufour : 
+Alors ce qui change dans la classe inversée, c'est la nature même du travail à la maison. C'est à dire que dans une... dans un enseignement traditionnel, ce qu'on va demander aux élèves à la maison, c'est de faire des exercices qui peuvent être problématiques, même s'ils ont l'aide de les, des parents, et on sait que même dans les familles plus ou moins en difficulté, il y a un investissement des parents important. Il peut y avoir problème de compréhension de l'énoncé par exemple, ou... alors que dans une classe inversée, l'idée c'est de faire un travail à la maison qui est uniquement de regarder des leçons par exemple, ou de vraiment préparer le cours. On demande... C'est un travail qui est simple, et qui ne demande pas de capacités spécifiques des parents, ou de... ou d'enseignants privés par exemple. Donc moi ce que j'ai fait, c'est que j'ai interviewé un certain nombre d'enseignants qui mettent en pratique la classe inversée, et il y en a un certain nombre qui, justement, se saisissent des nouvelles technologies, pour vérifier que le travail à la maison a été fait. C'est à dire que, en même temps qu'ils donnent des ressources à regarder ou à consulter, ils utilisent des questionnaires en ligne pour poser quelques questions très simples, vraiment de compréhension de base sur ce sur quoi portait la leçon, et ça leur permet, avant d'arriver en classe, d'une part de savoir si leurs élèves ont compris, d'autre part, s'ils ont effectivement fait le travail. Et pour les élèves, le fait de savoir que le prof sait, ça change les choses.
+Louise Tourret : 
+Ah ben je trouve ça pratiquement terrifiant ! (Rires). C'est... ça fait partie des possibilités des nouvelles technologies, ça peut être aussi, oui, considéré comme une limite, parce que le contrôle devient, ma foi, très important. Il faut aussi s'intéresser aux limites de cette pédagogie. Ça demande quand même un investissement professoral différent, peut-être plus important, parce qu'il faut beaucoup s'impliquer, et puis il faut être très actif dans sa classe. Vincent Faillet.
+Vincent Faillet :
+Oui, absolument. A l'origine, Bergmann et Sams, qui ont véritablement fait découvrir la méthode, ont travaillé avec des capsules vidéo, donc ce qui suppose un enregistrement...
+Louise Tourret : 
+Il faut les fabriquer.
+Vincent Faillet :
+Il faut les fabriquer.
+Héloïse Dufour : 
+Pas forcément...
+Vincent Faillet :
+Il faut avoir les compétences, la technologie, pour les fabriquer, ou utiliser des capsules déjà existantes. 
+Mais en règle générale, les enseignants aiment bien travailler avec leurs propres supports. Cela suppose de totalement repenser la classe évidemment, puisque le cours, le modèle transmissif classique doit être fait à la maison, donc il faut d'autres activités en classe, des activités qui vont supposer en effet des questionnaires à choix multiple, ou éventuellement l'utilisation de boîtiers de vote, des ateliers. Donc c'est un travail totalement différent pour l'enseignant, ça suppose un fort investissement, oui.
+Louise Tourret : 
+Est-ce que on continue, avec cette classe inversée, à produire aussi des devoirs, des travaux un peu plus longs ? Là on parle de réponses à des Q.C.M, des petits exercices pour vérifier que la leçon a été comprise, mais il y a aussi une mobilisation de ces savoirs, traditionnellement dans la rédaction, la dissertation, dans des travaux un peu plus personnels. J'ai l'impression que on sort un peu de ces exercices, ces pratiques du champ avec la classe inversée ? Vincent Faillet.
+Vincent Faillet :
+Non. On n'est pas obligé de changer la façon d'évaluer les élèves. Ce qui change vraiment, c'est la façon de favoriser l'accès à la connaissance. L'évaluation en elle-même n'a pas lieu forcément d'être changée.
+Héloïse Dufour : 
+Et pour beaucoup d'enseignants que j'ai rencontrés, l'idée c'est pas d'augmenter la somme de travail à la maison, c'est juste vraiment d'en changer la nature. En termes de dissertation, de choses comme ça, moi j'ai rencontré des enseignants, en français par exemple, et qui utilisent la classe inversée pour faire produire aux élèves, en classe, des textes, et pour vraiment travailler avec eux, sur la production d'un texte, comment est-ce qu'on fait.
+Louise Tourret : 
+Donc on intervient dans le travail personnel des élèves, c'est le faire avec l'élève... 
+Héloïse Dufour : 
+C'est passer du face à face au côte à côte. 
+Louise Tourret : 
+Vincent Faillet, ces pédagogies sont-elles séduisantes ? Et pourquoi le sont-elles ?
+Vincent Faillet :
+Alors...
+Louise Tourret : 
+... auprès des enseignants.
+Vincent Faillet :
+Elles sont séduisantes parce que c'est une rupture avec un modèle qui est ancien, c'est le modèle transmissif. Depuis le Moyen Âge, on est dans un modèle transmissif, avec l'enseignant au centre, les élèves autour, il récite le cours, et une cohorte d'élèves prend le cours. Donc l'idée de la classe inversée, c'est de se positionner de façon très pragmatique où c'est l'élève qui est au centre de la réflexion, c'est l'élève qui va construire son savoir, avec l'aide de l'enseignant et avec l'aide de ses camarades également. Donc c'est séduisant parce qu'on remet l'élève au centre de la classe.
+Louise Tourret : 
+Une idée qui ne séduit pas tout le monde pourtant, mais finalement, est-ce que la classe inversée, c'est abolir l'idée de transmission ? Héloïse Dufour.
+Héloïse Dufour : 
+Alors je pense que c'est là qu'il faut préciser qu'il n'y a pas un type de classe inversée. Et je pense que c'est pour ça que la classe inversée marche aussi bien. On peut faire une classe inversée en restant dans le transmissif. On peut faire une classe inversée où on...c'est toujours l'enseignant qui donne les leçons à l'élève à apprendre, c'est toujours l'enseignant qui donne les exercices, et simplement qui se contente d'aider les élèves en classe. Moi je trouve que la classe inversée, c'est plus intéressant, justement, pour faire des tâches complexes, pour vraiment mettre l'élève en situation de production. Mais, encore une fois, pourquoi est-ce que ça séduit tant de gens ? Je pense que moi, tous les enseignants me l'ont dit, c'est vraiment cette idée d'interaction avec les élèves. Les enseignants qui sont en classe inversée, ils parlent à tous leurs élèves, tous les jours. Et là on revient sur pourquoi est-ce que c'est un moyen de lutter contre le décrochage scolaire par exemple ? Parce que ça renforce vraiment les interactions entre les enseignants et les élèves.
+Louise Tourret : 
+Interactions entre les élèves, on en a un peu parlé, et j'aimerais beaucoup qu'on y revienne, c'est finalement favoriser quelque chose qui est assez laissé de côté, c'est les pédagogies coopératives dans l'école française, pédagogies qui sont peut-être plus adaptées au monde actuel, au monde professionnel aussi, quel que soit le type de métier d'ailleurs auquel on se destine. Vincent Faillet.
+Vincent Faillet : 
+Disons que la coopération fait partie de l'arsenal pédagogique des élèves. Surtout avec les nouvelles technologies. Une fois rentrés chez eux, les élèves que j'ai pu étudier au lycée Dorian vont sur des plates-formes, alors pas forcément les plates-formes académiques type ENT, mais vont par exemple sur Facebook, ils coopèrent, ils s'échangent des informations sur les cours, sur les exercices. Donc la coopération... est un mode de travail tout à fait normal pour ces élèves. 
+Un mode de travail dont ils sont habituellement privés dans un enseignement transmissif. Donc le fait de leur redonner la parole, de réactiver quelque part une dialectique moderne où l'élève va donner son point de vue, essayer d'expliquer à son camarade ce qu'il pense, séduit tout à fait les élèves actuels. 
+Louise Tourret : 
+Ce qu'on peut aussi dire, c'est que l'idée de la classe inversée répond à une problématique tout à fait contemporaine de l'école puisqu'on voit émerger tout un marché d'applications pour apprendre. Des applications qui permettent par exemple de réviser ses tables de multiplication, on peut tout à fait le faire avec une machine, ou les verbes irréguliers, l'orthographe, les conjugaisons, on peut dialoguer avec un ordinateur qui voit le type de fautes qu'on fait, qui conseille en termes de ressources : où est-ce qu'il faut aller chercher ? Quelle leçon il faut consulter ? On recentre donc la mission enseignante sur l'humain, si je vous suis bien. C'est ça Héloïse Dufour ?
+Héloïse Dufour : 
+Oui. Et je pense que... Là, encore une fois, je voudrais insister sur le fait que les nouvelles technologies ne sont vraiment pas le point principal de la classe inversée, c'est un facilitateur, mais l'idée c'est vraiment de changer ce qui se passe en classe, d'avoir un enseignant qui est là pour faire apprendre les élèves, leur... éventuellement même leur apprendre à apprendre, et...voilà.
+Louise Tourret : 
+L'enseignant fait quelque chose que la machine ne pourrait pas faire. Il peut voir si l'élève a compris euh, l'évaluer. Il y a toujours un petit peu de psychologie, il y a toujours une dimension psychologique dans le fait d'enseigner. 
+Vincent Faillet, qu'est-ce que vous pensez de cette idée ?
+Vincent Faillet : 
+Oui, c'est... on est loin de la machine à enseigner, on est vraiment, comme vous le souligniez, dans l'humain, et on redonne la parole à l'élève, et...la.. certes les technologies ne sont pas forcément, nécessairement présentes. On peut faire de la classe inversée sans technologies, mais on peut également le...la faire avec des technologies, et là je pense aux travaux d'Éric Masure, où il va travailler avec des boîtiers de vote, ce qui va permettre à des élèves qui habituellement ne s'exprimeraient pas - parce que là c'est un problème, l'expression - de pouvoir donner leur avis, de pouvoir répondre, de pouvoir participer à la classe. Donc on modifie complètement la psychologie de l'élève au sein même du groupe classe. Et des fois on a des surprises, on peut constater, je l'ai constaté moi-même, que des élèves qui pouvaient avoir l'air totalement effacés en fond de classe, eh bien, prenaient goût à la parole, et prenaient goût à la dialectique de façon à s'exprimer et à faire valoir leurs idées. Donc c'est très intéressant d'un point de vue psychologique. 
+Louise Tourret : 
+Vincent Faillet, sur, finalement, ces pédagogies qui peuvent se répandre sans contrôle institutionnel, sans cohérence aussi entre les enseignants ?
+Vincent Faillet : 
+On est dans le bricolage, mais dans le bricolage dans l'esprit de Levi-Strauss, c'est à dire l'esprit noble du bricolage. L'enseignant, l'artisan, dans sa classe, avec ses moyens, avec sa vision, avec ses élèves, dans un univers assez clos, qui va mettre au point sa classe inversée. La classe inversée de Saint-Brieuc n'est sans doute pas celle de Paris...euh... 
+Ce qui est intéressant, c'est que ce bricolage – c'est un bricolage évolutif – c'est François Jacob qui disait que l'évolution, c'est un bricolage moléculaire où l'on fait du neuf avec du vieux. Eh bien je pense qu'on est tout à fait dans ce cadre-là, et l'intérêt, c'est ce que c'est un bricolage qui vient de la base. Ce sont les enseignants qui s'approprient de nouvelles méthodes d'enseignement, et c'est assez nouveau en France. Et c'est peut-être le gage d'un, du succès. C'est à dire, ce n'est pas une volonté hiérarchique qui viendrait des ministères ou de l'Académie, ce sont les enseignants qui, il suffit de regarder divers blogues sur internet d'enseignants qui se posent des questions au primaire, secondaire, collège, lycée... où on se rend compte eh bien que l'on essaye de faire ce que l'on peut avec une emprise très proche des élèves. Donc on est dans du bricolage qui vient de la base, qui se répand, donc je pense que c'est quelque chose qui devrait être regardé avec grande attention de la part des instances académiques et ministérielles. 
+Louise Tourret : 
+Eh bien ce sera le mot de la fin, merci beaucoup Vincent Faillet, je rappelle que vous menez des recherches en sciences de l'éducation sur la classe inversée. Merci Héloïse Dufour, biologiste, vous avez fondé le site, l'association Inversons la classe. Bonne après-midi sur France culture ! 
+
+En tant que représentant d'une association de parents d'élèves, vous êtes invité à une table ronde sur la transmission du savoir. Vous exposez votre conception d'une pédagogie réellement efficace pour l'élève. Vous insistez notamment sur le caractère inadapté de certaines méthodes traditionnelles et la nécessité absolue d'introduire les nouvelles technologies dans l'école.
+En tant que porte-parole du syndicat des enseignants de votre établissement, vous participez à une conférence sur l'avenir du métier d'enseignant. Vous présentez ce qui, à votre avis, constitue les fondements de votre métier et les risques auxquels il est confronté. Vous exprimez vos craintes face aux tendances actuelles et proposez des pistes d'évolution.
+Quel que soit le sujet choisi, vous aurez soin de présenter, en une dizaine de minutes , idées et exemples pour étayer vos propos, et d'organiser votre discours de manière élaborée et fluide avec une structure logique et efficace qui aidera le destinataire à remarquer les points importants.
+
+Pour Héloïse Dufour, avec la classe inversée, le travail à la maison n'implique pas de participation des parents, qui sont, selon les foyers, plus ou moins disponibles ou aptes à comprendre les exercices donnés. De même, il n'exige pas d'enseignants particuliers pour aider aux devoirs, puisque les devoirs consistent souvent en une leçon à regarder, ou un cours auquel se préparer théoriquement, l'heure en classe étant axée sur la pratique. 
+
+Elle insiste également sur le fait que la classe inversée favorise les interactions entre professeurs et élèves. Elles sont plus directes, ce qui permet à l'enseignant d'être en contact avec chacun de ses élèves et, ainsi d'être plus attentif à ce qu'il ne « décroche » pas.
+
+Comme le note la journaliste, la classe inversée demande un investissement plus grand du professeur. Il est beaucoup plus actif dans la classe, puisqu'il ne se contente plus de dispenser un cours.
+
+Vincent Faillet nous explique qu'avec la classe inversée, l'enseignant doit repenser toute la construction de son cours. Il doit trouver des nouveaux moyens de faire accéder aux connaissances à la maison et doit créer des activités pratiques pour la classe, là où, d'habitude, c'est le contraire. Par conséquent, son rôle est aussi de trouver un nouveau moyen de vérifier les connaissances. D'où le recours aux nouvelles technologies.
+
+Héloïse Dufour utilise enfin une expression qui résume bien la situation : l'enseignant passe du « face à face au côte à côte », puisqu'il est, en cours, amené à aider ses élèves à produire quelque chose.
+
+Comme le dit Vincent Faillet, le modèle transmissif, c'est le modèle traditionnel qui remonte au Moyen Âge. L'enseignant y est au centre, il dispense un savoir que les élèves reçoivent et écrivent. C'est lui qui donne les leçons et les exercices.
+
+À travers les mots de Vincent Faillet, on peut également le définir a contrario. Le modèle transmissif s'oppose en effet à un modèle contemporain, inspiré du socio-constructivisme, où l'élève construit son savoir avec l'aide de l'enseignant et de ses pairs, comme dans la classe inversée.
+
+Héloïse Dufour met en avant la flexibilité de la démarche. Chaque enseignant se l'approprie. On peut même pratiquer la classe inversée tout en restant dans un modèle transmissif. Selon elle, cependant, l'intérêt de la démarche est de rendre les élèves actifs en cours, et non plus passifs, face à un enseignant. Ils sont placés en situation de production, dans laquelle les interactions sont permises. C'est, selon elle, l'atout majeur. 
+La journaliste soulève également un point intéressant. Ce qui séduit peut-être, c'est l'aspect coopératif de la pédagogie, un aspect souvent absent à l'école alors que la société actuelle, dans le monde du travail en particulier, met de plus en plus l'accent sur la capacité à travailler en équipe, à coopérer.
+
+Vincent Faillet remarque, dans son expérience, que les élèves d'aujourd'hui échangent en permanence, en dehors des cours, de manière informelle, et grâce notamment aux nouvelles technologies, comme, par exemple, sur les réseaux sociaux.
+
+En quoi Vincent Faillet estime-t-il que la coopération est à la fois un outil naturel chez l'élève, et un outil pédagogique bénéfique ?
+Au-delà d'une rupture avec un modèle dépassé, qu'est-ce qui séduit tellement les invités dans la démarche de la classe inversée ?
+Les deux invités de cette émission prônent l'école inversée contre un enseignement dit transmissif. Mais comment définir cet enseignement transmissif ?
+Quelles conséquences la mise en place de la classe inversée a-t-elle dans le travail de l'enseignant ?
+Héloïse Dufour est tout à fait séduite par la classe inversée pour son aspect moderne et égalitaire. En quoi considère-t-elle ce modèle comme un moyen de lutter contre les inégalités à l'école ?
+
+Vincent Faillet se réfère à une définition du bricolage de Levi-Strauss, c'est-à-dire le bricolage au sens noble du terme. L'enseignant y est considéré comme un artisan, qui construit ses cours en contact avec le réel, avec sa classe, et fait ce qu'il peut avec ce qu'il a.
+
+Il bricole aussi dans le sens où il fait du neuf avec du vieux en réinvestissant ses pratiques dans des nouveaux supports. C'est un bricolage pragmatique, qui vient de la base, c'est-à-dire du terrain, sans impositions des hiérarchies. 
+C'est aussi en cela qu'il est intéressant, selon Vincent Faillet.
+
+Le jury est modérateur de l'émission. Il n'intervient pas. Il invite le candidat à prendre la parole pendant 10 minutes environ pour présenter son point de vue argumenté.
+
+L'examinateur intervient. Il joue le rôle du journaliste et réagit aux propos du candidat. Il doit privilégier le débat et l'échange et ne pas questionner systématiquement le candidat. Il ne doit pas poser de questions qui obligeraient à approfondir un savoir spécifique.
+
+Aujourd'hui ou demain, des robots seront-ils capables de remplacer les hommes au travail ? Deviendront-ils les esclaves de la société postindustrielle ? Quelles tâches pourraient-ils accomplir ? 
+Bruno Bonnell : Il n'y a aucune tâche que les robots ne sauront pas, un jour, exécuter, de la plus fastidieuse à la plus méticuleuse, de la plus répétitive à la plus sophistiquée. Qui aurait pensé qu'un jour les enfants de dix ans pouvaient avoir le monde dans leurs poches au bout d'un portable ? Les véhicules seront autonomes, plus besoin de chauffeurs, les opérations chirurgicales seront robotisées, les mines seront exploitées par des robots… Mais utiliser le mot esclave revient à considérer qu'ils sont autre chose que des machines. Leurs capacités de déduction et de connexion sont certes développées, leur force mécanique est puissante, leur précision micrométrique, mais les robots restent des machines au service de l'homme. Certains métiers vont disparaître, mais d'autres apparaître. Le maréchal-ferrant et le cocher ont dû se reconvertir. À son essor, l'industrie de l'automobile a créé beaucoup plus d'emplois qu'elle n'en a supprimés. Il est important d'anticiper cette « robolution » et de former les gens à des métiers d'avenir pour l'accompagner, sans drame social.
+Brigitte Munier :  L'image d'un robot esclave n'est pas neuve ! Mais on peut aussi imaginer un robot allié ou compagnon, voire amant. Machine intelligente (capable d'apprentissage), utilisée déjà dans le contexte des loisirs, de l'éducation, de la médecine, de la police, de l'armée, de la conquête spatiale, etc., le robot est voué à exécuter toutes les tâches pour lesquelles on voudra, ou pourra, le programmer. 
+
+Justement, est-ce souhaitable ? Les robots libéreraient-ils les hommes des tâches répétitives pour leur permettre d'exercer des travaux plus intéressants, voire d'accomplir le rêve d'une « société des loisirs » ?
+Ou bien, au contraire, l'usage des robots risque-t-il de mener à des licenciements, des disparitions de métiers ou à des déqualifications ?
+Brigitte Munier : Il appartient à l'homme de ne pas se laisser intimider ou séduire par la puissance des robots au point de perdre le sens de la spécificité des compétences purement humaines : l'illogisme apparent propre à l'émotivité, à la sensibilité et à l'imagination symbolique rend ces facultés inimitables par des machines, même programmées pour simuler l'empathie. Ainsi l'inaltérable patience de robots-instituteurs en Corée du Nord et au Japon convient-elle aux enfants autistes, mais nul ne sait comment évolueront les autres enfants qui n'apprennent pas à composer avec les humeurs d'un professeur humain… Cet exemple du philosophe JeanMichel Besnier indique une voie pour méditer sur la nature des tâches que l'homme de chair ne saurait confier sans dommages à ses créatures de fer.
+Bruno Bonnell :  La robotique va avoir l'effet dans l'industrie que l'informatique a eu dans le service. Il sera nécessaire de faire un effort de pédagogie pour faire adopter ces nouvelles technologies qui se banaliseront. C'est l'enjeu de la robolution : changer d'ère industrielle et par là même changer notre perception d'un travail forcé pour un travail choisi. 
+Les projets « d'usines du futur » semblent conçus à partir de et avec la robotique : après l'entreprise délocalisée, se dirige-t-on vers l'entreprise déshumanisée ?
+Richard Castelli : C'est déjà le cas avec la finance où ce sont des robots-logiciels qui prennent les décisions car ils sont les seuls à pouvoir réagir à la nanoseconde avec l'inconvénient qu'ils puissent surréagir avec les résultats que l'on sait… Pour une entreprise de production de biens, « l'usine », ce sera toujours la raison économique qui déterminera le pourcentage et le degré d'automatisation. Paul Andreu, l'architecte de l'aéroport de Roissy (du terminal 1 au terminal 2E-K) ainsi que de l'Opéra de Pékin entre autres, s'était demandé s'il devait installer des portes automatiques dans un aéroport qu'il était en train de concevoir comme le requérait tout aéroport digne de ce nom car, après un rapide calcul à partir des conditions locales, le coût d'achat et surtout de maintenance d'une porte automatique revenait plus cher que le salaire d'un portier qui pouvait nourrir une famille avec… ce que la porte était bien incapable de faire ! C'est pourquoi, il décida de remplacer les habituelles portes automatiques par des portiers en superbe livrée, ce qui donna un caractère très luxueux à cet aéroport. L'histoire ne dit pas si, après quelques années, l'aéroport ne s'est pas débarrassé des portiers et a laissé le voyageur se débrouiller tout seul ! Pour d'autres types d'entreprises, les décisions continueront à nécessiter la présence d'humains, mais avec probablement pas beaucoup plus de compétences que celles d'un robot.
+Bruno Bonnell : Je suis persuadé que la robolution va profondément modifier notre système économique. . En ce qui me concerne, « elle ne nous donnera plus d'excuses pour ne pas avoir de temps pour l'autre. »
+
+Les ouvriers trop chers, remplacés par des robots Foxconn, le sous-traitant (…) d'Apple et d'autres compagnies high-tech, entend remplacer ses travailleurs par un million de robots. Une véritable nouvelle crise de l'emploi se profile.
+10 000 robots sont en train d'être mis en place dans les (…) usines chinoises de Foxconn pour assembler l'iPhone 6. (…) Foxconn communique bien sur le fait que les robots vont « aider » les ouvriers et non les « remplacer » ; qu'ils vont permettre d'augmenter les cadences. (…) La question qui se pose ici est : est-ce que cette nouvelle révolution industrielle par le numérique, qui pousse bien plus loin l'automatisation des tâches, ne va pas créer une sérieuse crise de l'emploi ? Le discours convenu explique que les robots remplacent les tâches pénibles et répétitives et poussent les hommes vers des emplois plus qualifiés, plus gratifiants. Ce qu'on entend depuis les premiers robots. Lorsque les pompistes ont disparu, que les caissières ont été remplacées par des caisses automatiques… Le million d'ouvriers chinois en passe de perdre leur emploi ne va pas devenir cadre, créatif ou autre. Il va perdre son emploi car il ambitionne d'être payé plus de 300 euros par mois et qu'un robot est plus productif et moins cher.
+Et qu'on ne s'y trompe pas, l'automatisation permise par le numérique ne touche pas que les emplois les moins qualifiés. Des algorithmes de trading* remplacent parfois avantageusement des traders. Des journalistes sportifs et financiers commencent à être remplacés par des intelligences artificielles aux États-Unis, capables d'analyser et de présenter des résultats. Et un algorithme a même été nommé au conseil d'administration d'une entreprise récemment. C'est aussi le cas pour les pilotes et chauffeurs, puisque vont débarquer les véhicules qui se dirigent tous seuls. Et on pourrait multiplier les exemples.
+C'est bien une crise de l'emploi vers laquelle on se dirige, et elle nous est promise par Bill Gates* : « La substitution logicielle, qu'elle concerne les chauffeurs, les serveurs ou les infirmières, progresse. Sur la durée, la technologie va réduire la demande en emplois, particulièrement au bas de l'échelle des compétences. Dans 20 ans, la demande de main-d'œuvre pour beaucoup de compétences sera substantiellement plus faible. Je ne pense pas que ce soit intégré dans le modèle mental des gens. » Car sans emploi, plus de salaire, plus de consommation, et l'économie s'écroule. Ce n'est pas forcément une nouvelle catastrophiste si, d'ici là, on peut repenser sérieusement notre rapport au travail, au salariat et à la répartition des richesses. Sinon, les hommes ne seront plus seulement en concurrence de « compétitivité » entre eux, mais contre les machines avant un effondrement du système économique.
+Robots : les humanoïdes seront-ils bientôt parmi nous ?
+Au salon Innorobo à Lyon, les humanoïdes se multiplient « Je vous présente Romeo. » Après le petit et mignon Nao, Rodolphe Gelin, directeur des recherches de la société parisienne Aldebaran, dévoile un nouveau robot  Du haut de ses 140 cm et avec ses 40 kg, Romeo est pensé comme un assistant pour les personnes en perte d'autonomie. En effet, il doit aider aux actions simples, proposer une compagnie et, surtout, veiller sur les personnes. « Le robot apprend », explique Rodolphe Gelin.
+« Il analyse toutes les habitudes, mais aussi les expressions sur le visage ou l'intonation de la voix pour s'assurer que tout va bien. » 
+Seulement, le robot est encore à l'état de prototype. « Il faudra encore une dizaine ou une vingtaine d'années pour passer des prototypes que l'on voit à des produits consommables satisfaisants », estime Bruno Bonnell, président du syndicat Syrobo et co-organisateur du salon. 
+Vers une humanisation des robots ?
+Les robots humanoïdes n'en sont qu'à leurs balbutiements. Mais un monde où humains et robots se côtoient n'est pas si lointain. La start-up parisienne Syntheligence présente Lighty, un robot au visage d'homme pour transmettre des émotions. Un visage humain est projeté sur un masque de plastique et s'adapte à son interlocuteur (rire, larmes, dédain, gêne, neutre…). 
+Mais gare à ne pas aller trop loin dans l'humanisation. Le Japonais Hiroshi Ishiguro a ainsi créé son double robotique en latex, baptisé Geminoïd, bluffant de réalisme (aussi bien les cheveux que la peau ou l'expression des yeux) mais tout aussi dérangeant.
+Le roboticien japonais Masahiro Mori a ainsi théorisé la « vallée dérangeante » (aussi appelée « vallée de l'étrange »), une courbe selon laquelle plus le robot paraît humain, plus il suscite de la sympathie jusqu'au point où la forte ressemblance provoque une forte répulsion.
+ Selon Rodolphe Gelin : « Lors de l'acquisition d'un robot, nous passons un pacte avec celui-ci : tu es un objet et tu ne dois pas me mettre en danger. C'est pourquoi il ne faut pas de doute : l'apparence doit rappeler qu'il s'agit bien d'une machine. »
+Reste que l'acceptation des robots évoluera au fil des futures générations, et pourrait même déboucher sur de l'attachement. 
+« Aujourd'hui nous magnifions les robots pour faciliter leur future acceptation sociale », relève le psychiatre Serge Tisseron de l'université Paris-VII, dans le magazine Les dossiers de la Recherche. Mais cette forte empathie peut avoir son revers. Dans la série Real Humans, des hommes tombent amoureux de leur robot. Aux Etats-Unis, des soldats risquent leur vie pour sauver de simples machines. Intégrer les robots à notre quotidien, c'est bien, à condition de savoir les débrancher de temps en temps ! Rassurons-nous, pour l'heure, Romeo ne dispose que d'une autonomie d'une cinquantaine de minutes...
+
+En tant qu'étudiant en sciences technologiques, vous envoyez votre contribution à une revue scientifique francophone qui, en vue d'un numéro spécial, a lancé un appel à ses lecteurs sur le thème « 2050 : « Avec la robotique, une société de loisirs?
+Quelle place pour les robots dans la société du futur ? Révolution ou menace ? »
+À l'aide du dossier joint et d'apports personnels, vous rédigez un texte structuré dans lequel vous exposez clairement votre vision de la société à venir. Vous défendez votre position sur la place des robots dans le futur. Vous adoptez un style approprié et un ton convaincant.
+
+Ancien employé d'une société qui a subi une vague massive de licenciements pour cause d'automatisation, vous décidez d'envoyer un article à un magazine scientifique francophone qui a posé ces questions aux lecteurs : « Les robots dominerontils un jour les hommes ? Faut-il avoir peur d'eux ? Votre avis nous intéresse.»
+À l'aide du dossier joint et d'apports personnels, vous décidez d'y répondre et écrivez un texte structuré dans lequel vous défendez clairement votre opinion sur le sujet. Vous adoptez un style approprié et un ton convaincant.
+
+Émission « Évolution des relations patient-médecin », La tête au carré, Mathieu VIDARD, France Inter Mathieu Vidard : Les médecins et les patients dans la même galère. La médecine moderne, dominée par le marché, serait à l'origine de relations totalement bouleversées entre… médecins et patients, entraînant un écart de plus en plus grand entre les sciences biomédicales et le soin individualisé. Tel est, en tout cas, le postulat de mon invité, qui est médecin généraliste, enseignant à l'université, écrivain, passionné d'histoire des sciences et d'anthropologie, et qui est l'auteur aux éditions Le Pommier des « Nouveaux paradoxes de la médecine ». Luc Perino, bonjour.
+Luc Perino : Bonjour.
+Mathieu Vidard : Merci d'être avec nous…, aujourd'hui. C'est quoi, au fond, un médecin généraliste aujourd'hui ?
+Luc Perino : Alors, on va essayer de faire simple, de trouver une… une métaphore… C'est celui qui est le m… le plus apte à faire la passerelle entre les sciences biomédicales et le soin individualisé.
+Mathieu Vidard : Hum… Le soin clinique…
+Luc Perino : Le soin individualisé. C'est-à-dire que j'adapte ma connaissance des sciences biomédicales actuelles, qui sont – comme vous le savez – qui ont fait d'énormes progrès…
+Mathieu Vidard : Oui…
+Luc Perino : Je l'adapte à… à… au cas qui est devant moi et je tiens compte de l'expertise que j'ai, moi, de la clinique et de l'expertise de l'individu, que j'ai en tant que praticien, j'ai une expertise de l'individu. Et je dois faire la passerelle entre les deux. En… entre les deux, empêcher que l'un déborde sur l'autre et que l'autre déborde sur l'un. C'est un… c'est un art difficile.
+
+Mathieu Vidard : Oui. Alors, justement, pourquoi est-ce que vous mettez les… les médecins et… et les patients dans la même galère… Luc Perino ?
+Luc Perino : Alors, les patients, pardon, se plaignent du manque d'individualisation du soin. C'est… c'est la plainte, j'allais dire, constante, quoi que vous lisiez sur la médecine, tous les essais que vous lisiez sur la médecine, c'est…, effectivement, c'est… cette séparation qu'il y a entre le soin individualisé et les sciences biomédicales. Ils s'en plaignent, mais les patients ne sont pas les seuls, en fait. Les médecins aussi. Les médecins se rendent compte que, justement, il est de plus en plus difficile de retrouver son patient au niveau d'une vérité scientifique, donc la souffrance est la même des deux côtés du stéthoscope, comme je dis souvent. Alors, la souffrance des médecins…eh… on peut pas la comparer à celle du patient, bien sûr, qui, lui, est… est un profane, et puis le… le médecin, il compense cette souffrance parce que… bah… ça lui rapporte… [rires] De ce… ce… ce…
+
+Mathieu Vidard : C'est son avantage…
+Luc Perino : Voilà, c'est son avantage…
+Mathieu Vidard : Pour lui, par rapport aux patients…
+Luc Perino : Cette difficulté qu'il y a, cette multiplication des actes, ces… eh… lui rapportent financièrement, donc il est plus discret, sans doute, dans sa contestation du système…
+Mathieu Vidard : Oui…
+Luc Perino : Tout simplement parce qu'il y a un avantage, y faut… y faut être réaliste, hein, dans la vie, il faut aussi dire les choses comme elles sont. Donc, mais les deux, y a une souffrance des deux côtés. Et c'est d'ailleurs, sans doute, parce que le médecin est subordonné de fait… aux… aux… à cette prépondérance du marché… à cette prépondérance des… des…
+des biais…
+Mathieu Vidard : Ça, c'est vraiment la… la raison principale… qui explique cette situation… aujourd'hui, de la… médecine moderne ?
+Luc Perino : Je pense que là, on a… on est… on est arrivés à un… à un point… critique, on est arrivés à un point critique sur la prépondérance du marché dans la formation de la pensée médicale, non pas seulement dans la pensée, dans la formation de la pensée médicale.
+Mathieu Vidard : Alors, justement, l'idée de… de l'histoire des sciences, c'est de pouvoir dérouler un peu le fil, pour comprendre pourquoi on en est arrivés là aujourd'hui. Parce qu'il y a beaucoup d'enseignements, hein, dans… dans cette histoire.
+Luc Perino : Oui, oh, bah, évidemment… Pourquoi on en est arrivés là, alors je…, là, c'est vraiment du travail d'historien.
+En tout cas, y a…, moi, je vois une raison de… quelques raisons majeures. Il faut essayer de… de se placer…, alors je simplifie… l'histoire, hein, évidemment quand on fait de l'histoire, on… on résume beaucoup, ... ce que… il faut simplifier avant ce qu'on appelle, ce que les historiens appellent, la révolution pasteurienne, et après. Alors, révolution pasteurienne, ça englobe, en gros, à… à… pendant Pasteur puis après, puisque j'inclus les antibiotiques dedans…
+Mathieu Vidard : Hum, hum…
+Luc Perino : Vaccins, hygiène, antibiotiques. Ça, c'est la grande triade magique, qui a fait que la médecine est passée de l'ère préhistorique à l'ère moderne, soyons… soyons clairs, hein. Et donc on a fait… ce… cette triade a fait gagner, en gros, euh… 20 années d'espérance moyenne de vie à la naissance, à tout les peuples occidentaux. Et, donc là, on avait…, c'était assez clair, on avait trouvé la cause principale des maux : c'était des ennemis externes.
+Mathieu Vidard : Très identifiables.
+Luc Perino : Identifiables, on les a identifiés, Pasteur les a identifiés, beaucoup d'autres, Koch, tout le monde les a identifiés… iden… identifiés. Et puis après ça, bah la médecine, c'était le miracle, les gens ont commencé à croire à la médecine.
+Et puis après, la médecine s'est presque trouvée face à une crise d'identité : « Qu'est-ce qu'on va faire maintenant ? ». Et donc, tout s'est inversé, avant c'était les patients qui apportaient leurs plaintes, leurs souffrances, leurs blessures, aux médecins, à la médecine, ils apportaient leurs plaies de guerre, ils apportaient tout ça, et après, ça s'est fait en quelques années, le paradigme, pour employer un grand mot, face à… tout… tout s'est inversé, c'est la médecine qui a apporté des sujets de plainte aux patients. Y… il faut insister là-dessus parce que c'est une inversion complète. Aujourd'hui ce ne sont plus les maladies qui créent la médecine, c'est la médecine qui crée les maladies, je simplifie un peu, hein, c'est grossier, excusez moi, on a peu de temps. Et donc, tout s'est inversé, donc aujourd'hui on a confondu, on confond encore, facteurs de risque et maladies. Ça n'est pas la même chose.
+
+Mathieu Vidard : Vous parlez ensuite d'une véritable crise identitaire de la médecine après cette période. Pourquoi exactement ?
+Luc Perino : Alors, si vous voulez, les médecins qui avaient, on va dire en gros, toujours été moqués, parce que finalement ils échouaient tout le temps hein, si on lit l'histoire de la médecine, c'est un peu lamentable même comme la médecine échouait tout le temps. Alors, quand je dis médecine, je ne dis pas chirurgie, c'est un peu différent. La médecine seule, ben ne réussissait pas et ils étaient moqués. Et là il s'est quand même passé quelque chose qui était extraordinaire, c'est que là du jour au lendemain, on a quand même enrayé les plus graves maladies, on a contribué à l'hygiénisme, à l'hygiène et donc ben l'Histoire pouvait s'achever, l'Histoire pouvait s'achever, on avait vaincu tout ce dont on avait le plus peur. Et donc, il fallait trouver autre chose. Donc c'est un peu une crise identitaire. J'exagère peut-être en disant ça mais, bon ben maintenant on va chercher les moyens de vivre encore plus, encore mieux et encore plus longtemps. Et ça, ben c'était pas évident. Donc il fallait trouver, et à ce moment-là, il s'est passé quelque chose qui a débordé les médecins, je crois, qui a débordé les médecins, c'est une énorme révolution technologique, donc, là, bon…
+Mathieu Vidard : Oui...
+Luc Perino : On se place en gros en milieu du… du…
+Mathieu Vidard : Du XXe…
+Luc Perino : Du XXe siècle, voilà, milieu…
+Mathieu Vidard : Et ça, c'était trop brutal ?
+Luc Perino : Ça a été trop brutal parce que, si vous voulez, les médecins avaient construit leur science clinique et diagnostique, c'était leur… leur… euh… leur privilège, le diagnostic était le privilège des médecins, ils l'avaient très bien bâti, toutes les méthodes anatomo-cliniques, Laennec, Charcot…
+Mathieu Vidard : Hum, hum…
+Luc Perino : Ils avaient bâti ça minutieusement… pendant… pendant… 2 siècles, on va dire, et brutalement, la technologie les… les déborde…
+Mathieu Vidard : Oui…
+Luc Perino : Complètement… Elle leur donne sur un plateau…
+Mathieu Vidard : Il y a trop de données, quoi…
+Luc Perino : Voilà.
+Mathieu Vidard : Au fond, hein.
+Luc Perino : Elle leur donne sur un plateau tout ce qu'ils ont mis 2 siècles à bâtir, c'est tout fait, en gros, on n'a plus besoin de vous, quoi. En gros, on n'a plus besoin de vous. Donc on n'a plus… ils avaient… ils avaient vaincu les… les… les épidé…
+enfin les… les maladies infectieuses en grande partie et le diagnostic qui était leur seule fierté, en fin de compte, parce que ça, ça avait été élaboré vraiment minutieusement par la science médicale pure, bah… on… on peut se passer de vous. Donc ça a été vraiment une crise identitaire, je crois, on peut le… on peut l'analyser comme ça, d'un point de vue historique.
+Mathieu Vidard : Oui. Donc on a été surpassé, au fond, par la connaissance du corps humain…
+Luc Perino : Bien sûr…
+Mathieu Vidard : parce que c'était ça, on avait tous les outils…
+Luc Perino : Bien sûr…
+Mathieu Vidard : Pour aller à l'intérieur du corps… Et…
+Luc Perino : Vous… vous…
+Mathieu Vidard : Et on en bénéficie encore très largement aujourd'hui évidemment…
+Luc Perino : Mais on peut… on peut pas s'en passer…
+Mathieu Vidard : Puisque la technologie s'améliore…
+Luc Perino : Mais bien sûr…
+Mathieu Vidard : D'année en année… Et vous pensez qu'aujourd'hui, on est encore victimes, d'ailleurs, de…
+Luc Perino : Ah bah…
+Mathieu Vidard : De ce trop-plein d'informations sur… euh…
+Luc Perino : Alors… Les… les… les 2 victimes sont, effectivement, les… les patients qui sont sans doute inondés d'analyses et des… et d'examens dont ils n'ont pas besoin, et les médecins qui… qui… qui ne savent plus gérer cet afflux d'informations qui n'a, bien sûr, souvent plus de rapport avec ce qu'on appelle les données, les fameuses données cliniques.
+Mathieu Vidard : Hum…
+Luc Perino : D'accord, j'ai ça, d'accord, j'ai ça, j'ai cette analyse, j'ai cette image, mais mon patient, lui, lui, qu'est-ce qu'il a, lui ? C'est ça qui compte.
+
+Luc Perino : Voilà. Et donc, le… le… l'écart entre les deux se creuse de plus en plus…
+Mathieu Vidard : Oui. Parlons du pouvoir des médecins, d'ailleurs… euh, aujourd'hui… euh, par rapport, précisément…
+euh… au marché… euh… euh… Ce pouvoir a complètement changé ?
+Luc Perino : Alors… vous parlez du pouvoir des médecins ou du pouvoir…
+Mathieu Vidard : Par rapport…
+Luc Perino : De la médecine ?
+Mathieu Vidard : Du pouvoir des médecins par rapport aux patients, précisément.
+Luc Perino : Alors, … La médecine a un énorme pouvoir, hein, elle a un énorme pouvoir puisqu'on est en train de… de faire de notre société une société qui est malade de façon permanente, hein. Donc la médecine s'est imposée au sens où on a toujours besoin d'elle puisque il y a une omniprésence de la maladie, hein. Plus… euh… plus… une… une… une société est objectivement en bonne santé, plus la maladie est omniprésente, ça, c'est intéressant, quand même ! Alors, d'un point de vue de la médecine, on peut considérer que c'est un échec, puisqu'on a raté le but puisque tout le monde est toujours malade…
+Mathieu Vidard : Oui.
+Luc Perino : Par contre, c'est un succès au niveau commercial, hein…
+Mathieu Vidard : Ouais…
+Luc Perino : Puisque vous avez en permanence une augmentation de l'offre et de la demande…
+Mathieu Vidard : Ouais…
+Luc Perino : Donc, c'est…
+Mathieu Vidard : Pourquoi, justement ? En raison de… de quoi ? De la technologie, précisément, aussi ? Par rapport aux outils qui…
+Luc Perino : Par…
+Mathieu Vidard : Nous sont donnés…
+Luc Perino : Parce que je crois qu'y a une demande… euh… de ne jamais… Y a une demande de la part du public, bah de ne jamais être malade, on doit jamais tomber malade…
+Mathieu Vidard : Hum, hum…
+Luc Perino : Et puis, y a une offre considérable, de projets, pour ne jamais tomber malade, hein. On… on vous propose des tas de solutions pour ne jamais tomber malade : « Prenez ça, vous n'aurez jamais d'accident cardiaque », « Prenez ça, vous n'aurez jamais de maladie neurodégénérative », « Et prenez ça - entre guillemets -, vous… vous ne mourrez jamais ». Donc, là…, c'est… c'est très vendeur, ça, c'est très vendeur, donc forcément quand vous avez un énorme marché, vous avez un énorme pouvoir… On peut… de… devant les décideurs, simplement…
+Mathieu Vidard : Hum.
+Luc Perino : Il faut… il faut savoir… que le… que… le marché de la s… sanitaire dans les pays occidentaux, je crois que c'est 10 ou 11 % du PIB, donc par rapport aux décideurs politiques, on… on n'est jamais négligeables quand on est… quand on offre un tel marché.
+Mathieu Vidard : Dominique nous dit ceci… « Est-il possible un jour que les médecins puissent avoir devant eux non pas un patient, au pire un malade, mais une personne à part entière, une personne qui a une maladie et non quelqu'un qui est malade ? Avoir une maladie est bien différent d'être malade. Quand les médecins nous aideront-ils à sortir de cet état d'être ? »
+Luc Perino : Ça, c'est la question ! Donc, c'est ce que l'on disait au début de l'émission, c'est tout… tout l'écart qui va en se creusant entre les sciences biomédicales et le soin individualisé. Notre but de praticiens, c'est d'améliorer le soin individualisé, sans bien sûr dénigrer jamais la science, dont on a besoin…
+Mathieu Vidard : Oui…
+Luc Perino : Et en remettant toujours le patient au… au centre… du… du problème clinique, parce que… il y a quand même, au départ, une plainte, en théorie, bien que maintenant la majorité des pathologies décrétées par la médecine sont sans plainte, mais au départ, quand on voit un patient, c'est parce qu'à l'origine il y avait une plainte et on doit s'attacher à cette plainte et à rien d'autre.
+
+Mathieu Vidard : Oui…
+Luc Perino : Chaque protéine, chaque gène, chaque synasme… chaque synapse, chaque métabolisme, est un ennemi potentiel qui va, un jour, dysfonctionner. C'est intéressant, d'un point de vue… euh… philosophique… et… et je trouve ça passionnant. On n'a que des ennemis internes, en nous, ils sont en nous…
+Mathieu Vidard : Oui…
+Luc Perino : On les recherche toujours. Même s'ils doivent jamais se manifester, on… on est … on est à l'affût de celui qui va nous…
+Mathieu Vidard : Luc Perino, vous évoquiez cette notion intéressante de porteur sain. Ça poursuit cette idée, justement…
+Luc Perino : Oui, oui…
+Mathieu Vidard : Que l'organisme…
+Luc Perino : Vous avez raison…
+Mathieu Vidard : Est po… potentiellement un ennemi, en tout cas, qu'on l'envisage mal.
+Luc Perino : Voilà. Alors, la notion de porteur sain, c'est…, alors ça, c'est très intéressant parce que… on s'est rendu compte très vite que… on… on avait en nous énormément de microbes pathogènes, mais qui ne donnaient pas de maladies. Et donc, ça, c'est une… c'est intéressant parce que là, on est dans la médecine évolutionniste. C'est-à-dire qu'on peut vivre en équilibre avec plein… d'ennemis, même externes, qui deviennent internes, on peut vivre en équilibre. Et alors, dans le cancer, on aurait dû intégrer cette notion de porteur sain.
+Mathieu Vidard : Hum, hum…
+Luc Perino : C'est-à-dire que l'individu est, vous comme moi au moment où je vous parle, nous sommes porteurs sains de nombreuses…
+Mathieu Vidard : De tumeurs cancéreuses…
+Luc Perino : Cellules… Cellules cancéreuses.
+Mathieu Vidard : Ouais.
+Luc Perino : Vous comme moi. Moi, j'en suis certain, vous, peut-être, je ne sais pas, moi, j'en suis certain. Nous sommes porteurs de cellules cancéreuses, mais nous sommes des porteurs sains, de cellules cancéreuses. Donc, c'est intéressant d'intégrer cette notion.
+Mathieu Vidard : Ouais…
+Luc Perino : On peut être…
+Mathieu Vidard : Sauf… Est-ce…
+Luc Perino : Des porteurs sains…
+Mathieu Vidard : Est-ce… Est-ce qu'on admet cette idée aujourd'hui ?
+Luc Perino : Ah bah…
+Mathieu Vidard : Les médecins comme les patients, d'ailleurs ?
+Luc Perino : C'est ça…
+Mathieu Vidard : On a du mal à admettre ça, 
+Luc Perino : Ça, c'est très difficile à faire admettre. Quand on dit ça, on passe pour un marginal, on passe pour un irresponsable, comme on… on m'a dit souvent, parce que si on dénigre l'idée que le cancer, à partir du moment où il a mis son premier… sa première cellule dans l'organisme, va irrémédiablement et inéluctablement entraîner une mort atroce dans les… dans les mois ou années qui suivent, si on conteste cette idée, on… on est un irresponsable, hein, c'est…, alors qu'au contraire, il faut se dire « mais non, euh… soyons sereins par rapport à ça, nous sommes un organisme qui est un écosystème complexe lui-même…
+Mathieu Vidard : Hum, hum…
+Luc Perino : Et qui est porteur sain de beaucoup de choses potentiellement dangereuses…
+Mathieu Vidard : Ouais…
+Luc Perino : Comme des microbes, des cellules cancéreuses.
+Mathieu Vidard : Alors, là, il y a un vrai problème éthique avec ça, avec les outils, d'ailleurs, parce que… avec le dépistage précoce, et le fait de pouvoir de plus en plus précocement détecter… des cellules cancéreuses, alors que peut-être que ces…
+ces cellules ne développeront jamais de… de pathologies graves, on est face à un vrai problème parce que…
+Luc Perino : Alors là…
+Mathieu Vidard : Est-ce qui faut informer les gens… très tôt et, en tout cas, les outils le permettent aujourd'hui ?
+Luc Perino : Alors, je… je dirais que, par rapport à ça, on… on est devant un problème absolument insoluble… pour des raisons politiques, éthiques, démagogiques, commerciales, mercatiques, tout ce que vous voulez, mon petit cerveau n'y suffira pas, j'y arriverai pas…
+Mathieu Vidard : Vous avez peut-être des pistes à nous livrer, quand même !
+Luc Perino : Voilà… J'ai des pistes, mais…
+Mathieu Vidard : Bah, y a surtout des exemples… très… particuliers… qu'on peut…
+Luc Perino : On… on est devant un problème insoluble parce que vous ne pouvez pas… euh… faire… faire comprendre à quelqu'un - et c'est toujours très douloureux même par rapport aux patients de dire ça -, quelqu'un, par exemple, qui a eu un dépistage du cancer du sein, on va dire, les plus emblématiques, ou de la prostate, peu importe… On lui a trouvé des cellules cancéreuses dans… dans… dans son organe, dans son sein, dans sa prostate, on lui a enlevées, ce qu'il fallait faire, évidemment, une fois qu'on les a trouvées, y f… y vaut mieux les enlever, c'est normal. Et, il n'a plus rien et il se considère comme guéri, et vous ne pouvez pas lui faire admettre, c'est impossible à admettre au niveau mental, au niveau personnel, que peut-être si on n'avait pas fait de dépistage, qu'on avait rien fait, il serait dans le même état. C'est impossible à faire comprendre, y compris aux médecins et y compris aux grands universitaires. On doit chercher la cellule cancéreuse, on doit la traquer, on doit l'enlever. Alors, c'est inquiétant, alors aujourd'hui, c'est déjà… on… on est arrivés à un point critique au niveau de la relation médecine-société…
+Mathieu Vidard : Hum…
+Luc Perino : On est arrivé à un vrai point critique…
+Mathieu Vidard : Hum, hum…
+Luc Perino : Mais je pense que ça va être un moment très grave et ça va peut-être se régler tout seul, c'est qu'actuellement on est capable, par exemple, de déterrer… de dépister, excusez-moi, les cellules tumorales circulantes, c'est-à-dire dans le sang. C'est-à-dire qu'on va vous faire une prise de sang, au laboratoire, c'est… c'est… c'est déjà pratiquement opérationnel, pas tout à fait mais presque, et on va trouver les cellules cancéreuses circulantes. C'est-à-dire qu'en gros, je peux vous prédire, à peu près avec certitude, que dans moins de vingt ans, il n'y aura plus une personne vivante dans ce pays qui ne sera pas porteuse d'un cancer.
+Mathieu Vidard : Ouais…
+Luc Perino : Donc, là, y faudra peut-être prendre une décision au niveau de nos sécurités sociales, pour pas se mettre à…
+à donner… euh… de la chimiothérapie à tous ces gens-là, là, on aura un problème financier qui va…
+Mathieu Vidard : Ouais.
+Luc Perino : Apparaître…
+Mathieu Vidard : Non, mais c'est…
+Luc Perino : Qui… qui sera…
+Mathieu Vidard : C'est un problème crucial aujourd'hui.
+Luc Perino : C'est un problème majeur. Mais, on… il y a derrière ça, aussi, un pouvoir marchand considérable et le plus mauvais aspect de nos démocraties, hélas, qui est la démagogie. Le « plan cancer », c'est très démagogique. On peut pas s'en passer, imaginez qu'on dise : « on arrête les dépistages de masse aujourd'hui », ce qui serait scientifiquement sans doute pas une mauvaise chose, j'ose pas dire une bonne mais je dirais pas une mauvaise, mais, d'un point de vue politique, démagogique, c'est inacceptable.
+
+Mathieu Vidard : Oui… On a quand même une drôle de relation avec notre organisme… euh, aujourd'hui, Luc Perino, dans nos pays occidentaux, en particulier…
+Luc Perino : Bien sûr…
+Mathieu Vidard : Parce que… on considère que l'organisme est potentiellement un ennemi…
+Luc Perino : Voilà. Alors, là, c'… c'est… c'est très intéressant, c'est toujours… on peut faire le rapport, toujours, avec la révolution pasteurienne. De… l'ennemi était externe, il est devenu interne…
+
+Vous devez présenter, en cinq à dix minutes environ, le contenu du document. Vous aurez soin de reprendre l'ensemble des informations et points de vue exprimés dans un ordre et selon une structure logique et efficace qui faciliteront l'écoute pour le destinataire.
+
+En tant que citoyen, vous prenez part à l'émission de radio dont le thème est l'évolution des relations patient-médecin. Vous êtes d'accord avec Luc Perino sur le fait que la médecine moderne affecte les relations entre les médecins et les patients. Mais vous pensez que, même si tout progrès scientifique suscite des inconvénients, ceux-ci sont mineurs par rapport aux avantages qu'ils procurent, qu'il s'agisse de médecine ou d'autres domaines. Vous argumentez dans ce sens en vous appuyant sur des exemples.
+En tant que citoyen, vous prenez part à l'émission de radio dont le thème est l'évolution des relations patient-médecin. Vous pensez qu'il est inévitable que la relation patient-médecin évolue et que ceci n'est pas seulement dû à des pressions financières. Et même si l'avancée des sciences en général est étroitement liée aux enjeux économiques, cela ne vous apparaît pas comme négatif. Vous argumentez dans ce sens en vous appuyant sur des exemples.
+
+Quel que soit le sujet choisi, vous aurez soin de présenter, en une dizaine de minutes, idées et exemples pour étayer vos propos, et d'organiser votre discours de manière élaborée et fluide avec une structure logique et efficace qui aidera le destinataire à remarquer les points importants.
+
+Dans cette partie, vous débattrez avec le jury. Vous serez amené(e) à défendre, nuancer, préciser votre point de vue et à réagir aux propos de votre interlocuteur.
+Vous ne disposez pas de temps de préparation pour cet exercice.
+
+Comment Luc Perino définit-il le rôle du médecin généraliste aujourd'hui ?
+C'est un professionnel capable d'adapter sa connaissance des sciences biomédicales actuelles au cas qui se présente devant lui, en tenant compte de son expertise de l'individu. Il fait le lien entre les sciences biomédicales et le soin individualisé, et veille à maintenir un équilibre entre les deux.
+D'après Luc Perino, de quoi se plaignent les patients comme les médecins ? Et quelle est la cause de ce mécontentement ?
+Médecins comme patients se plaignent des pressions marchandes qui affectent les relations entre médecins et patients, et entraînent un écart de plus en plus grand entre les sciences biomédicales et le soin individualisé. Même la formation de la pensée médicale est affectée par la prépondérance du marché.
+Pourquoi Luc Perino dit-il que les médecins souffrent moins que les patients de cet état de fait ?
+Le médecin conteste moins le système car celui-ci lui rapporte financièrement, notamment par la multiplication des actes.
+Pour Luc Perino, quels sont les moments-clés de l'histoire de la médecine ? Qu'ont-ils apporté ?
+La révolution pasteurienne et les découvertes qui ont suivi ont fait passer la médecine de l'ère préhistorique à l'ère moderne en apportant les antibiotiques, les vaccins et l'hygiène. Grâce à cette triade, les peuples occidentaux ont augmenté leur espérance de vie de 20 ans. La cause principale des maux était clairement identifiée : c'était des ennemis externes.
+Quelques années après, tout s'est inversé : avant, c'étaient les patients qui apportaient leurs plaintes, leurs souffrances, leurs blessures, aux médecins ; puis, c'est la médecine qui a apporté des sujets de plainte aux patients. Aujourd'hui, ce ne sont plus les maladies qui créent la médecine, c'est la médecine qui crée les maladies.
+La révolution technologique, au milieu du XXème siècle, a déstabilisé les médecins, et la médecine a alors connu une sorte de crise identitaire. En effet, en permettant d'aller à l'intérieur du corps, les outils, qui explorent cet intérieur, ont retiré aux médecins le privilège de poser eux-mêmes le diagnostic qui faisait leur fierté. Les médecins ont été surpassés.
+Ensuite, de l'ennemi externe, on est passé à l'ennemi interne. Dès lors, chaque protéine, chaque gêne, est un ennemi potentiel qui va, un jour, dysfonctionner.
+Puis, avec la médecine évolutionniste, on s'est rendu compte que les microbes pathogènes qu'on avait en nous ne donnaient pas obligatoirement de maladies.
+D'après Luc Perino, quelles sont les conséquences d'un trop grand nombre d'informations médicales ?
+Les patients sont inondés d'analyses et d'examens dont ils n'ont pas besoin, et les médecins ne savent plus gérer cet afflux d'informations qui n'a souvent plus de rapport avec les données cliniques. L'écart entre les informations sur le patient et le patient lui-même se creuse de plus en plus.
+En quoi, selon Luc Perino, la médecine a-t-elle aujourd'hui un grand pouvoir ? Qu'en pense-t-il ?
+Luc Perino considère que la médecine a un énorme pouvoir étant donné que nous faisons de notre société une société constamment malade. Nous avons besoin de la médecine du fait de l'omniprésence de la maladie.
+Luc Perino remarque que plus une société est objectivement en bonne santé, plus la maladie est omniprésente.
+Du point de vue de la médecine, cette situation est un échec ; par contre, au niveau commercial, c'est un succès puisque la demande du public de ne jamais être malade, et l'offre de projets pour ne jamais tomber malade, ne cessent d'augmenter.
+
+D'après Luc Perino, quels souhaits les médecins émettent-ils face aux changements de la médecine moderne ?
+Ils voudraient améliorer le soin individualisé en remettant le patient au centre du problème clinique et en le considérant comme une personne.
+Selon Luc Perino, quelle relation entretenons-nous avec notre organisme ?
+Pour Luc Perino, nous voyons notre organisme comme un ennemi (externe, puis interne) potentiel, qui risque, à un moment ou à un autre, de dysfonctionner. Nous sommes à la recherche permanente de ces ennemis, même s'ils ne se manifesteront peut-être jamais, afin que notre organisme puisse s'adapter à l'environnement toxique.
+Quelle est la position de Luc Perino sur la notion de porteur sain ?
+Pour Luc Perino, grâce à la médecine évolutionniste, on sait que nous avons en nous énormément de microbes pathogènes, mais qui ne donnent pas de maladies. Donc que nous pouvons vivre en équilibre avec de nombreux ennemis. Luc Perino pense que nous aurions dû intégrer cette notion de porteur sain dans le cancer car, même si nous avons du mal à l'admettre, chacun de nous peut être porteur sain de nombreuses cellules cancéreuses.
+Il faudrait donc considérer que nous sommes un organisme qui est un écosystème complexe, porteur sain de beaucoup de choses potentiellement dangereuses, comme des microbes ou des cellules cancéreuses.
+Comment Luc Perino se situe-t-il par rapport au dépistage précoce ?
+Il estime qu'il s'agit d'un vrai problème éthique car, comme le dépistage précoce permet de détecter des cellules cancéreuses qui ne développeront peut-être jamais de pathologies graves, on peut s'interroger sur la pertinence d'informer les gens très tôt. Luc Perino considère que ce problème est insoluble pour des raisons politiques, éthiques, démagogiques, commerciales, mercatiques, etc. Il pense que l'on est arrivé à un point critique de la relation médecine-société car on se doit de chercher, traquer et enlever toute cellule cancéreuse.
+Actuellement, on est capable de dépister les cellules tumorales circulantes avec une prise de sang. Ce qui conduit Luc Perino à prédire que, dans moins de vingt ans, il n'y aura plus une personne en France qui ne sera pas porteuse d'un cancer.
+Le pouvoir marchand est considérable dans ce domaine et l'on peut se demander s'il ne surpasse pas parfois l'intérêt médical. Mais il semble inconcevable d'arrêter les dépistages de masse, même s'ils ne sont pas toujours justifiés.
